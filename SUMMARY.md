@@ -4,17 +4,18 @@
 
 * [Introduction](README.md)
 * [Minting Godz](about/minting-godz.md)
+* [Goals](about/goals.md)
 
 ## Gameplay
 
-* [Goals](gameplay/goals.md)
+* [Join the Game](gameplay/join-the-game.md)
 * [Earning Points](gameplay/earning-points.md)
 * [Hero Rank](gameplay/hero-rank.md)
 * [Fighting](gameplay/fighting.md)
 * [Kill Screens](gameplay/kill-screens.md)
 * [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
 * [The Vault](gameplay/the-vault.md)
-* [Getting Started](gameplay/getting-started.md)
+* [Getting Started - 101](gameplay/getting-started-101.md)
 
 ## Tokens
 

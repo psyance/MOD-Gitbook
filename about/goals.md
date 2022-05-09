@@ -14,7 +14,7 @@ _<mark style="color:purple;">Participate in Discord to Earn Points</mark>_ **>**
 
 ### Participate to Earn Points
 
-The foundation of the game is to genuinely participate in the NFTArcade Discord and enjoy the comradery of those that are also playing the game. As you interact with other gamers and play the other [NFTArcade](https://nftarca.de) games, you will win points and GBAR. Both of these can be used to [earn points ](earning-points.md)and buy [Hero Skins](../tokens/skins/)
+The foundation of the game is to genuinely participate in the NFTArcade Discord and enjoy the comradery of those that are also playing the game. As you interact with other gamers and play the other [NFTArcade](https://nftarca.de) games, you will win points and GBAR. Both of these can be used to [earn points ](../gameplay/earning-points.md)and buy [Hero Skins](../tokens/skins/)
 
 ### Fight Villains to Win NFTs
 
@@ -26,5 +26,5 @@ Once you have acquired the [n00b](../tokens/heroes/n00b.md) Hero Token, [Hardcor
 
 ### Open the Vault
 
-The ONE that owns the [Mint of Destiny](../tokens/the-mint-of-destiny.md) can push the Big Green Button and claim all the prizes contained in [The Vault](the-vault.md).
+The ONE that owns the [Mint of Destiny](../tokens/the-mint-of-destiny.md) can push the Big Green Button and claim all the prizes contained in [The Vault](../gameplay/the-vault.md).
 
