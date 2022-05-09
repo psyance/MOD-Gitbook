@@ -16,8 +16,8 @@ The following is a table that outlines all the _Methods_ that you can earn point
 | Burn n00b Hero               | 250 Points | None                        |
 | Burn Hardcore Hero           | 500 Points | None                        |
 | Ownership Points (Minion)    | 10 Points  | None                        |
-| Ownership Points (Mini-Boss) |            | None                        |
-| Ownership Points (Boss)      |            | None                        |
+| Ownership Points (Mini-Boss) | 50 Points  | None                        |
+| Ownership Points (Boss)      | 100 Points | None                        |
 
 ### Discord Post
 
