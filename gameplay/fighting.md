@@ -12,5 +12,9 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 ### Rank Categories
 
-* n00b : Rank 1-3&#x20;
-* Hardcore **:** Rank 3-5 . &#x20;
+| Villain Type | Ranks | Chance of Winning |
+| ------------ | ----- | ----------------- |
+| Minion       | 1 - 3 | 70% - 90%         |
+| Mini-Boss    | 3 - 5 | 50% - 70%         |
+| Boss         | 5 - 7 | 30% - 50%         |
+
