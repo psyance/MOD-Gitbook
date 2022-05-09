@@ -8,13 +8,16 @@ The entire gameplay foundations revolves around the point system. There are vari
 
 The following is a table that outlines all the _Methods_ that you can earn points while playing The Mint of Destiny game in our Discord. You will earn the _Amount_ for each _Method._ You will then have to wait the _Cooldown Period_ before being able to earn points from that _Method_ again.
 
-| Method             | Amount     | Cooldown Period             |
-| ------------------ | ---------- | --------------------------- |
-| Discord Post       | 1 Point    | 5 Minutes                   |
-| Tweet              | 20 Points  | 6 Hours                     |
-| Refer a Friend     | 10 Points  | Until all n00b roles minted |
-| Burn n00b Hero     | 250 Points | None                        |
-| Burn Hardcore Hero | 500 Points | None                        |
+| Method                       | Amount     | Cooldown Period             |
+| ---------------------------- | ---------- | --------------------------- |
+| Discord Post                 | 1 Point    | 5 Minutes                   |
+| Tweet                        | 20 Points  | 6 Hours                     |
+| Refer a Friend               | 10 Points  | Until all n00b roles minted |
+| Burn n00b Hero               | 250 Points | None                        |
+| Burn Hardcore Hero           | 500 Points | None                        |
+| Ownership Points (Minion)    | 10 Points  | None                        |
+| Ownership Points (Mini-Boss) |            | None                        |
+| Ownership Points (Boss)      |            | None                        |
 
 ### Discord Post
 
@@ -40,4 +43,11 @@ Here are the steps on how to refer a friend to the NFTArcade Discord:
 
 1. Do something
 2. then something else
-3.
+
+### Burn a Token
+
+You have the ability to [burn](../discord-bot/burn.md) a Hero token to gain massive points if you're going for a speed run, or having to recoup to make another attempt for the higher tokens. Depending on which token you burn, you will get varying points.
+
+{% hint style="info" %}
+<mark style="color:red;">**IMPORTANT**</mark>: You cannot undo a burning of a token. Once it is burned, it is forever gone and the total amount of tokens with that role has then been decreased by 1. This is a deflationary mechanic in the game that must be done wisely.
+{% endhint %}
