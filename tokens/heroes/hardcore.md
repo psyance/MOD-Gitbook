@@ -16,3 +16,12 @@ Just as there are no shortcuts in life, there are no shortcuts to reach the Mint
 
 If you have made it to Hardcore, you are a true warrior, and the Minting Godz have started paying attention to you! You will now have access to Discord channels that only those with the Hardcore role can view. You will receive private alpha to this game and others ahead of the n00bs and Lurkers!
 
+### Details
+
+|                                |       |
+| ------------------------------ | ----- |
+| Hero Level                     | 2     |
+| Points Needed to Fight Villain | 500   |
+| Token Minting Cap              | 2,500 |
+| Minting Cost                   | Free  |
+| Can Be Burned for Points       | Yes   |
