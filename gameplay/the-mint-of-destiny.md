@@ -1,5 +1,7 @@
 # THE MINT OF DESTINY
 
+![](../.gitbook/assets/MintOfDestiny.png)
+
 ### What is the Mint of Destiny?
 
 The Mint of Destiny contains so much majesty that trying to put its limitless power into words is heresy. It is only the most important NFT to have ever existed in the Etherverse! The one NFT that outshines every other token in existence and that ever will come to being! It is the **1-of-1-of-1**. You read that right! The Mint of Destiny is so unbelievably rare, that it possesses a multi-dimensional rarity that no other NFT has ever achieved!
