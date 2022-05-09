@@ -51,7 +51,7 @@ We have a full history of every battle that has ever taken place in the game on 
 
 #### Minion Vs.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 #### Mini-Boss Vs.
 
@@ -61,5 +61,5 @@ We have a full history of every battle that has ever taken place in the game on 
 
 ![](https://mintofdestiny.xyz/assets/img/others/game-vs1.webp)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
