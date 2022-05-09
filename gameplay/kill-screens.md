@@ -70,3 +70,5 @@ With your new-found worthiness, you can now push the Big Green Button and claim 
 ### If You Lose
 
 Should you lose at the Kill Screen attempt, you will have forfeited the 2,100 points you originally put up, and all of your staked NFTs will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
+
+If you want to take another shot at a Kill Screen you will have to earn back enough points and purchase the necessary Hero Tokens from the secondary market.
