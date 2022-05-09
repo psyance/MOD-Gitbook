@@ -28,6 +28,7 @@
   * [n00b](tokens/heroes/n00b.md)
   * [Hardcore](tokens/heroes/hardcore.md)
   * [Legendary](tokens/heroes/legendary.md)
+  * [God Mode](tokens/heroes/god-mode.md)
 * [Villains](tokens/villains/README.md)
   * [Minion](tokens/villains/minion.md)
   * [Mini-Boss](tokens/villains/mini-boss.md)
