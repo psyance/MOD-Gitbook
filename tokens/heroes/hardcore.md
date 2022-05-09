@@ -14,7 +14,7 @@ Just as there are no shortcuts in life, there are no shortcuts to reach the Mint
 
 ### Hardcore Discord Role
 
-If you have made it to Hardcore, you are a true warrior, and the Minting Godz have started paying attention to you! You will now have access to Discord channels that only those with the Hardcore role can view. You will receive private alpha to this game and others ahead of the n00bs and Lurkers!
+If you have made it to Hardcore, you are a true warrior, and the [Minting Godz](../../about/minting-godz.md) have started paying attention to you! You will now have access to Discord channels that only those with the Hardcore role can view. You will receive private alpha to this game and others ahead of the n00bs and Lurkers!
 
 ### Details
 

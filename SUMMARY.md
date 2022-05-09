@@ -37,6 +37,7 @@
 ## Discord Bot
 
 * [/join](discord-bot/join.md)
+* [/explore](discord-bot/explore.md)
 * [/fight](discord-bot/fight.md)
 * [/burn](discord-bot/burn.md)
 * [/killscreen](discord-bot/killscreen.md)

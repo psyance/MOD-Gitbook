@@ -14,7 +14,7 @@ As it was before, so it is again. You must have already defeated a [Mini-Boss](.
 
 ### Legendary Discord Role
 
-For those that have somehow made it this far, you now have the ear of the Minting Godz. Prepare for rewards to be presented to you in channels that only you have access to. Access to private whitelists, and even the possibility of being airdropped future NFTs in the NFTArcade!
+For those that have somehow made it this far, you now have the ear of the [Minting Godz](../../about/minting-godz.md). Prepare for rewards to be presented to you in channels that only you have access to. Access to private whitelists, and even the possibility of being airdropped future NFTs in the NFTArcade!
 
 ### Details
 
