@@ -4,11 +4,25 @@ description: We encourage violence... against Villains. Because they're bad.
 
 # Fighting
 
-The only way to level up your Hero in the game is to [/fight](../discord-bot/fight.md) Villains! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it.
+The only way to level up your Hero in the game is to [/fight](../discord-bot/fight.md) Villains! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary points and roles to be able to fight the Villain.
 
 ### How to fight
 
+All fights take place within Discord. You will need to issue the following command:
 
+```
+/fight [Villain Type]
+```
+
+Your options for \[Villain Type] are:
+
+* Minion
+* Mini-Boss
+* Boss
+
+When you submit this command, the [Discord Bot](broken-reference) will return the details of the Villain you have chosen to do battle with. At this time you can see the Villain Type, their Level (chance of winning), a thumbnail of the NFT that will be won, and two options to choose from to continue:
+
+1. Fight - This will enter your Hero into battle with the Villain. Should you win
 
 ### Villain Rank
 
