@@ -12,5 +12,5 @@ Are you kidding me?! Why would someone want to own a Picasso? He made over 50,00
 
 Oh and you get you push THE BIG GREEN BUTTON! 😱
 
-Yep, you heard that right. There is a [Big Green Button](../gameplay/the-vault.md) on the website ([https://MintOfDestiny.xyz](https://mintofdestiny.xyz)) that only the owner of the Mint Of Destiny can push. What does it do?! Oh man, the tension, must be KILLING YOU by this point! Ok... I'll tell you. The owner of The Mint of Destiny unlocks THE VAULT! WHHHHAATTTTT??!!!! Yes! When the owner pushes the Big Green Button on the site, the Minting Godz will have deemed them worthy and all of the treasures in the [Vault](../gameplay/the-vault.md) will be bestowed upon them!
+Yep, you heard that right. There is a [Big Green Button](the-vault.md) on the website ([https://MintOfDestiny.xyz](https://mintofdestiny.xyz)) that only the owner of the Mint Of Destiny can push. What does it do?! Oh man, the tension, must be KILLING YOU by this point! Ok... I'll tell you. The owner of The Mint of Destiny unlocks THE VAULT! WHHHHAATTTTT??!!!! Yes! When the owner pushes the Big Green Button on the site, the Minting Godz will have deemed them worthy and all of the treasures in the [Vault](the-vault.md) will be bestowed upon them!
 

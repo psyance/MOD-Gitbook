@@ -4,22 +4,22 @@ description: The more they're won, the harder they get!
 
 # Kill Screens
 
-Kill Screens are the infamous "Holy crap, you've gone farther in the game than was ever intended, so now it just breaks the code and dies" screens from some of the most popular games that created the video game industry as we know it.
+Kill Screens are the infamous "_Holy crap, you've gone farther in the game than was ever intended, so now it just breaks the code and dies_" screens from some of the most popular games that created the video game industry as we know it.
 
 We wanted to pay an homage to them and offer up the ability for the most god-like players that want to prove their reign over everyone else in the game.
 
 ### How Many Kill Screens Are There?
 
-There are only 20 Kill Screens that can be won.&#x20;
+There are only 20 [Kill Screen Tokens](../tokens/kill-screens.md) that can be won.&#x20;
 
 ### How To Try For a Kill Screen?
 
 You will need a few things first before you even _think_ about attempting a Kill Screen!&#x20;
 
-* n00b NFT
-* Hardcore NFT
-* Legendary NFT
-* 4,200 Points
+* [n00b](../tokens/heroes/n00b.md) NFT
+* [Hardcore](../tokens/heroes/hardcore.md) NFT
+* [Legendary](../tokens/heroes/legendary.md) NFT
+* [4,200 Points](earning-points.md)
 
 Once you have all of those you can run the following command in Discord to launch the next step in the Kill Screen prep command to verify your supreme gaming abilities (that you meet the requirements to try):
 
@@ -55,12 +55,18 @@ You've laid it all out on the line, and now comes the moment of truth! Depending
 
 ### If You Are Successful
 
-You will have just proven to the world that you are an Über-Elite Templar Ninja of Sorcery that can bend space and time as we know it! You will have your accomplishments etched for all time to the Kill Screen Title Holders page of the website, and you will have a 1-of-20 NFT of the worlds most awesome game that has ever existed!
+You will have just proven to the world that you are an Über-Elite Templar Ninja of Sorcery that can bend space and time as we know it! You will have your accomplishments etched for all time to the Kill Screen Title Holders page of the website, you will receive your 2,100 points back, and you will have a 1-of-20 NFT of the worlds most awesome game that has ever existed!
 
 Additionally, all Kill Screen holders will receive an NFT via freelist or airdrop to their wallet of every game that NFTArcade puts out FOREVER!
 
-To the winner of Kill Screen #20, they will also be immediately awarded THE MINT OF DESTINY!
+{% hint style="info" %}
+<mark style="color:purple;">**The winner of Kill Screen #20 will be immediately awarded THE MINT OF DESTINY!**</mark>
+{% endhint %}
 
 Angles will sing from above, the community will rejoice of your seemingly impossible accomplishment, and your enemies will be forever mega-jelly of your undeniable social status as the one and only true holder of [THE MINT OF DESTINY!](broken-reference)
 
 With your new-found worthiness, you can now push the Big Green Button and claim all of your spoils from [The Vault](the-vault.md)!
+
+### If You Lose
+
+Should you lose at the Kill Screen attempt, you will have forfeited the 2,100 points you originally put up, and all of your staked NFTs will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;

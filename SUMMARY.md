@@ -32,7 +32,7 @@
   * [❗ ETH Geek](tokens/skins/eth-geek.md)
   * [❗ Social Media Rockstar](tokens/skins/social-media-rockstar.md)
 * [❗ Kill Screens](tokens/kill-screens.md)
-* [THE MINT OF DESTINY](tokens/the-mint-of-destiny.md)
+* [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
 
 ## Discord Bot
 
@@ -41,7 +41,6 @@
 * [/fight](discord-bot/fight.md)
 * [/burn](discord-bot/burn.md)
 * [/killscreen](discord-bot/killscreen.md)
-* [/THEMINTOFDESTINY](discord-bot/themintofdestiny.md)
 
 ## Website
 
