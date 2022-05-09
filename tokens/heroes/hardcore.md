@@ -24,4 +24,4 @@ If you have made it to Hardcore, you are a true warrior, and the Minting Godz ha
 | Villain to Defeat        | [Mini-Boss](../villains/mini-boss.md) |
 | Token Minting Cap        | 2,500                                 |
 | Minting Cost             | Free                                  |
-| Can Be Burned for Points | Yes                                   |
+| Can Be Burned for Points | Yes (+500 Points)                     |

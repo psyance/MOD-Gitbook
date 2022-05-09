@@ -11,7 +11,7 @@ First off, you are the Hero. The Hero tokens will be your avatar in the game to 
 When you join the Discord, you will initially be given the role of Lurker. This is a non-tokenized role. It's granted to everyone that has joined our Discord, but is not playing the game. Once you fight your first Minion and win, you will then be awarded the entry-level role of n00b.
 
 {% hint style="info" %}
-<mark style="color:red;">**IMPORTANT**</mark>: You can only earn 1 level of each Hero role per wallet / discord name. So once you fight a Minion and win a n00b NFT, you can no longer win additional n00b or Minion NFTs.
+<mark style="color:red;">**IMPORTANT**</mark>: You can only earn 1 level of each Hero role per wallet / discord name. Once you fight a Minion and win a n00b NFT, you can no longer win additional n00b or Minion NFTs. So if you sell it, the only want to get it back is to buy it back.
 {% endhint %}
 
 There are four roles within The Mint of Destiny:

@@ -18,11 +18,11 @@ For those that have somehow made it this far, you now have the ear of the Mintin
 
 ### Details
 
-|                          |                                      |
-| ------------------------ | ------------------------------------ |
-| Hero Level               | 3                                    |
-| Villain to Defeat        | [Boss](../villains/boss.md)          |
-| Token Minting Cap        | 500                                  |
-| Minting Cost             | Free                                 |
-| Can Be Burned for Points | Yes, but why? Why would you do that? |
+|                          |                             |
+| ------------------------ | --------------------------- |
+| Hero Level               | 3                           |
+| Villain to Defeat        | [Boss](../villains/boss.md) |
+| Token Minting Cap        | 500                         |
+| Minting Cost             | Free                        |
+| Can Be Burned for Points | No                          |
 
