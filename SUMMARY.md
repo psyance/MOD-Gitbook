@@ -3,7 +3,7 @@
 ## About
 
 * [Introduction](README.md)
-* [The Devs](about/the-devs.md)
+* [Minting Godz](about/minting-godz.md)
 
 ## Gameplay
 
