@@ -4,7 +4,7 @@ description: Earn Points. Win Roles. Write History.
 
 # Earning Points
 
-The entire gameplay foundations revolves around the point system. There are various ways for you to earn points, and you'll need them to be able to fight the Villains to win roles and all other in-game mechanics.
+The entire gameplay foundations revolves around the point system. There are various ways for you to earn points, and you'll need them to be able to fight the Villains to win roles, increase your [Hero Rank](hero-rank.md), and all other in-game mechanics.
 
 The following is a table that outlines all the _Methods_ that you can earn points while playing The Mint of Destiny game in our Discord. You will earn the _Amount_ for each _Method._ You will then have to wait the _Cooldown Period_ before being able to earn points from that _Method_ again.
 

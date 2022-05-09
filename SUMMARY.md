@@ -9,6 +9,7 @@
 
 * [Goals](gameplay/goals.md)
 * [Earning Points](gameplay/earning-points.md)
+* [Hero Rank](gameplay/hero-rank.md)
 * [Fighting](gameplay/fighting.md)
 * [Kill Screens](gameplay/kill-screens.md)
 * [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
