@@ -8,14 +8,14 @@
 
 ## Gameplay
 
-* [Join the Game](gameplay/join-the-game.md)
+* [❗ Getting Started - 101](gameplay/getting-started-101.md)
+* [❗ Join the Game](gameplay/join-the-game.md)
 * [Earning Points](gameplay/earning-points.md)
 * [Hero Rank](gameplay/hero-rank.md)
 * [Fighting](gameplay/fighting.md)
-* [Kill Screens](gameplay/kill-screens.md)
+* [❗ Kill Screens](gameplay/kill-screens.md)
 * [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
 * [The Vault](gameplay/the-vault.md)
-* [Getting Started - 101](gameplay/getting-started-101.md)
 
 ## Tokens
 
@@ -29,6 +29,7 @@
   * [Boss](tokens/villains/boss.md)
 * [Hero Skins](tokens/skins/README.md)
   * [MMA Fighter](tokens/skins/mma-fighter.md)
+  * [Mars Man](tokens/hero-skins/mars-man.md)
   * [ETH Geek](tokens/skins/eth-geek.md)
   * [Social Media Rockstar](tokens/skins/social-media-rockstar.md)
 * [Kill Screens](tokens/kill-screens.md)

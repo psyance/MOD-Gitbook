@@ -2,7 +2,7 @@
 description: 'aka: How do I play?'
 ---
 
-# Getting Started
+# ❗ Getting Started - 101
 
 ### Have a Wallet with some ETH
 
