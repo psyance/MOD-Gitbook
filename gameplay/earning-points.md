@@ -51,3 +51,6 @@ You have the ability to [burn](../discord-bot/burn.md) a Hero token to gain mass
 {% hint style="info" %}
 <mark style="color:red;">**IMPORTANT**</mark>: You cannot undo a burning of a token. Once it is burned, it is forever gone and the total amount of tokens with that role has then been decreased by 1. This is a deflationary mechanic in the game that must be done wisely.
 {% endhint %}
+
+### Ownership Points
+
