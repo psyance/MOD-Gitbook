@@ -1,3 +1,3 @@
-# Social Media Rockstar
+# ❗ Social Media Rockstar
 
 ![](../../.gitbook/assets/skin-social\_media\_rockstar.jpg)

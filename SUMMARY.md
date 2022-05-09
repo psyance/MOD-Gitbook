@@ -13,8 +13,7 @@
 * [Earning Points](gameplay/earning-points.md)
 * [Hero Rank](gameplay/hero-rank.md)
 * [Fighting](gameplay/fighting.md)
-* [❗ Kill Screens](gameplay/kill-screens.md)
-* [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
+* [Kill Screens](gameplay/kill-screens.md)
 * [The Vault](gameplay/the-vault.md)
 
 ## Tokens
@@ -28,11 +27,11 @@
   * [Mini-Boss](tokens/villains/mini-boss.md)
   * [Boss](tokens/villains/boss.md)
 * [Hero Skins](tokens/skins/README.md)
-  * [MMA Fighter](tokens/skins/mma-fighter.md)
-  * [Mars Man](tokens/hero-skins/mars-man.md)
-  * [ETH Geek](tokens/skins/eth-geek.md)
-  * [Social Media Rockstar](tokens/skins/social-media-rockstar.md)
-* [Kill Screens](tokens/kill-screens.md)
+  * [❗ MMA Fighter](tokens/skins/mma-fighter.md)
+  * [❗ Mars Man](tokens/hero-skins/mars-man.md)
+  * [❗ ETH Geek](tokens/skins/eth-geek.md)
+  * [❗ Social Media Rockstar](tokens/skins/social-media-rockstar.md)
+* [❗ Kill Screens](tokens/kill-screens.md)
 * [THE MINT OF DESTINY](tokens/the-mint-of-destiny.md)
 
 ## Discord Bot
