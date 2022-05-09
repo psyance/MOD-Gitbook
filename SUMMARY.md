@@ -14,21 +14,12 @@
 * [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
 * [Getting Started](gameplay/getting-started.md)
 
-## Discord Bot
-
-* [/join](discord-bot/join.md)
-* [/fight](discord-bot/fight.md)
-* [/burn](discord-bot/burn.md)
-* [/killscreen](discord-bot/killscreen.md)
-* [/THEMINTOFDESTINY](discord-bot/themintofdestiny.md)
-
 ## Tokens
 
 * [Heroes](tokens/heroes/README.md)
   * [n00b](tokens/heroes/n00b.md)
   * [Hardcore](tokens/heroes/hardcore.md)
   * [Legendary](tokens/heroes/legendary.md)
-  * [God Mode](tokens/heroes/god-mode.md)
 * [Villains](tokens/villains/README.md)
   * [Minion](tokens/villains/minion.md)
   * [Mini-Boss](tokens/villains/mini-boss.md)
@@ -39,6 +30,14 @@
   * [Social Media Rockstar](tokens/skins/social-media-rockstar.md)
 * [Kill Screens](tokens/kill-screens.md)
 * [THE MINT OF DESTINY](tokens/the-mint-of-destiny.md)
+
+## Discord Bot
+
+* [/join](discord-bot/join.md)
+* [/fight](discord-bot/fight.md)
+* [/burn](discord-bot/burn.md)
+* [/killscreen](discord-bot/killscreen.md)
+* [/THEMINTOFDESTINY](discord-bot/themintofdestiny.md)
 
 ## Website
 
