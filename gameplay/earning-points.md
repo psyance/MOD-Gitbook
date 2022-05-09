@@ -8,11 +8,14 @@ The entire gameplay foundations revolves around the point system. There are vari
 
 The following is a table that outlines all the _Methods_ that you can earn points while playing The Mint of Destiny game in our Discord. You will earn the _Amount_ for each _Method._ You will then have to wait the _Cooldown Period_ before being able to earn points from that _Method_ again.
 
-| Method         | Amount    | Cooldown Period             |
-| -------------- | --------- | --------------------------- |
-| Discord Post   | 1 Point   | 5 Minutes                   |
-| Tweet          | 20 Points | 6 Hours                     |
-| Refer a Friend | 10 Points | Until all n00b roles minted |
+| Method              | Amount       | Cooldown Period             |
+| ------------------- | ------------ | --------------------------- |
+| Discord Post        | 1 Point      | 5 Minutes                   |
+| Tweet               | 20 Points    | 6 Hours                     |
+| Refer a Friend      | 10 Points    | Until all n00b roles minted |
+| Burn n00b Hero      | 250 Points   | None                        |
+| Burn Hardcore Hero  | 500 Points   | None                        |
+| Burn Legendary Hero | 1,000 Points | _Why would you do this?_    |
 
 ### Discord Post
 
