@@ -8,4 +8,4 @@ Everyone wants to know who the best player is in any games, so we have made a si
 
 As you [earn points](earning-points.md), your rank score will increase. As you use your points to fight or attempts other in-game mechanics, these point losses will not be removed from your total rank score. Your rank score can only go up!
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)

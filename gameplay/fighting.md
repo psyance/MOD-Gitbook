@@ -37,3 +37,29 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 | [Mini-Boss](../tokens/villains/mini-boss.md) | 3 - 5 | 70% - 50%         |
 | [Boss](../tokens/villains/boss.md)           | 5 - 7 | 50% - 30%         |
 
+### Fight History
+
+We have a full history of every battle that has ever taken place in the game on our website [https://mintofdestiny.xyz/match.html](https://mintofdestiny.xyz/match.html). The site shows who attempted to battle which Villain, the round number, the outcome of that battle, and the date that it occurred.
+
+#### Victory
+
+![](https://mintofdestiny.xyz/assets/img/others/win.png)
+
+#### Loss
+
+![](https://mintofdestiny.xyz/assets/img/others/lost.png)
+
+#### Minion Vs.
+
+![](<../.gitbook/assets/image (2).png>)
+
+#### Mini-Boss Vs.
+
+![](https://mintofdestiny.xyz/assets/img/others/game-vs3.webp)
+
+#### Boss Vs.
+
+![](https://mintofdestiny.xyz/assets/img/others/game-vs1.webp)
+
+![](<../.gitbook/assets/image (1).png>)
+
