@@ -22,8 +22,8 @@ Your options for \[Villain Type] are:
 
 When you submit this command and have the proper requirements (see individual Villain Token details for these), the [Discord Bot](broken-reference) will return the details of the Villain you have chosen to do battle with. At this time you can see the Villain Type, their Level (chance of winning), a thumbnail of the NFT that will be won, and two options to choose from to continue:
 
-1. Fight - This will enter your Hero into battle with the Villain. Should you win, you will receive the NFT of the Villain you just defeated, and the Hero NFT of the new role you just acquired.
-2. Run - Change your mind and don't want to fight? You can run away and only loose half the points of a loss.
+1. <mark style="color:purple;">**Fight**</mark> - This will enter your Hero into battle with the Villain. Should you win, you will receive the NFT of the Villain you just defeated, and the Hero NFT of the new role you just acquired.
+2. <mark style="color:purple;">**Run**</mark> - Change your mind and don't want to fight? You can run away and only loose half the points of a loss.
 
 ### Villain Rank
 
