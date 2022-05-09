@@ -12,6 +12,7 @@
 * [Fighting](gameplay/fighting.md)
 * [Kill Screens](gameplay/kill-screens.md)
 * [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
+* [The Vault](gameplay/the-vault.md)
 * [Getting Started](gameplay/getting-started.md)
 
 ## Tokens
@@ -49,7 +50,9 @@
 * [FAQ](website/faq.md)
 * [About](website/about.md)
 
-## Refrences
+## Techy Stuff
 
-* [Contracts](refrences/contracts.md)
-* [Official Links](refrences/official-links.md)
+* [Blockchain](techy-stuff/blockchain.md)
+* [Token Usage Rights](techy-stuff/token-usage-rights.md)
+* [Contracts](techy-stuff/contracts.md)
+* [Official Links](techy-stuff/official-links.md)
