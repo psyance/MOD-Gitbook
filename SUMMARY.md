@@ -56,5 +56,5 @@
 
 * [Blockchain](techy-stuff/blockchain.md)
 * [Token Usage Rights](techy-stuff/token-usage-rights.md)
-* [Contracts](techy-stuff/contracts.md)
+* [Contracts](refrences/contracts.md)
 * [Official Links](techy-stuff/official-links.md)
