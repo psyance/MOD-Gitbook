@@ -4,7 +4,7 @@ description: a.k.a. The Big Green Button
 
 # The Vault
 
-## <img src="../.gitbook/assets/image.png" alt="" data-size="line"> What's in the Vault?
+## What's in the Vault?&#x20;
 
 ### Short answer
 
