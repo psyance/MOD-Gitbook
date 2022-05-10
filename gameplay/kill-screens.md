@@ -32,7 +32,7 @@ eg:
 /killscreen 2342 5634 8043
 ```
 
-You will be presented with the confirmation that you want to proceed with a Kill Screen attempt, and that by doing so, you will be putting those NFTs up for chance. You've laid it all out on the line, and now comes the moment of truth! Depending on which Kill Screen number you are attempting will determine [the difficulty of the attack](kill-screens.md#kill-screen-difficulty-levels).&#x20;
+You will be presented with the confirmation that you want to proceed with a Kill Screen attempt, and that by doing so, you will be putting those NFTs up for chance. You've laid it all out on the line, and now comes the moment of truth! Depending on which Kill Screen number you are attempting will determine the difficulty of the attack.&#x20;
 
 {% hint style="info" %}
 <mark style="color:red;">**IMPORTANT:**</mark> The Kill Screens are attempted _in order_, so it's _<mark style="color:purple;">MASSIVELY</mark>_ beneficial to get there before everyone else does!
@@ -42,7 +42,7 @@ You will be presented with the confirmation that you want to proceed with a Kill
 
 You will have just proven to the world that you are an Über-Elite Templar Ninja of Sorcery that can bend space and time as we know it! You will have your accomplishments etched for all time to the Kill Screen Title Holders page of the website, your points stay intact, your NFTs you put up for the attempts are safe and cozy in your wallet, and you will have a 1-of-20 NFT of the worlds most awesome game that has ever existed!
 
-Additionally, all Kill Screen holders will receive a guaranteed whitelist spot or airdrop to their wallet of every main NFT that NFTArcade makes for a game FOREVER!
+Additionally, all Kill Screen holders will receive an NFT via freelist or airdrop to their wallet of every game that NFTArcade puts out FOREVER!
 
 {% hint style="info" %}
 <mark style="color:purple;">**The winner of Kill Screen #20 will be immediately awarded THE MINT OF DESTINY!**</mark>
@@ -56,31 +56,31 @@ With your new-found worthiness, you can now push the Big Green Button and claim 
 
 ### If You Lose
 
-Should you lose at the Kill Screen attempt, you will forfeit 2,100 points and all of your staked NFTs will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
+Should you lose at the Kill Screen attempt, you will have forfeited the 2,100 points you originally put up, and all of your staked NFTs will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
 
 If you want to take another shot at a Kill Screen you will have to earn back enough points and purchase the necessary Hero Tokens from the secondary market.
 
 ### Kill Screen Difficulty Levels
 
-| Kill Screen Number   | Chance of Winning | Status                                          |
-| -------------------- | ----------------- | ----------------------------------------------- |
-| 1                    | 100%              | <mark style="color:green;">**Available**</mark> |
-| 2                    | 95%               | <mark style="color:green;">**Available**</mark> |
-| 3                    | 90%               | <mark style="color:green;">**Available**</mark> |
-| 4                    | 85%               | <mark style="color:green;">**Available**</mark> |
-| 5                    | 80%               | <mark style="color:green;">**Available**</mark> |
-| 6                    | 75%               | <mark style="color:green;">**Available**</mark> |
-| 7                    | 70%               | <mark style="color:green;">**Available**</mark> |
-| 8                    | 65%               | <mark style="color:green;">**Available**</mark> |
-| 9                    | 60%               | <mark style="color:green;">**Available**</mark> |
-| 10                   | 55%               | <mark style="color:green;">**Available**</mark> |
-| 11                   | 50%               | <mark style="color:green;">**Available**</mark> |
-| 12                   | 45%               | <mark style="color:green;">**Available**</mark> |
-| 13                   | 40%               | <mark style="color:green;">**Available**</mark> |
-| 14                   | 35%               | <mark style="color:green;">**Available**</mark> |
-| 15                   | 30%               | <mark style="color:green;">**Available**</mark> |
-| 16                   | 25%               | <mark style="color:green;">**Available**</mark> |
-| 17                   | 20%               | <mark style="color:green;">**Available**</mark> |
-| 18                   | 15%               | <mark style="color:green;">**Available**</mark> |
-| 19                   | 10%               | <mark style="color:green;">**Available**</mark> |
-| 20 / Mint Of Destiny | 5%                | <mark style="color:green;">**Available**</mark> |
+| Kill Screen Number | Chance of Winning | Status                                          |
+| ------------------ | ----------------- | ----------------------------------------------- |
+| 1                  | 100%              | <mark style="color:green;">**Available**</mark> |
+| 2                  | 95%               | <mark style="color:green;">**Available**</mark> |
+| 3                  | 90%               | <mark style="color:green;">**Available**</mark> |
+| 4                  | 85%               | <mark style="color:green;">**Available**</mark> |
+| 5                  | 80%               | <mark style="color:green;">**Available**</mark> |
+| 6                  | 75%               | <mark style="color:green;">**Available**</mark> |
+| 7                  | 70%               | <mark style="color:green;">**Available**</mark> |
+| 8                  | 65%               | <mark style="color:green;">**Available**</mark> |
+| 9                  | 60%               | <mark style="color:green;">**Available**</mark> |
+| 10                 | 55%               | <mark style="color:green;">**Available**</mark> |
+| 11                 | 50%               | <mark style="color:green;">**Available**</mark> |
+| 12                 | 45%               | <mark style="color:green;">**Available**</mark> |
+| 13                 | 40%               | <mark style="color:green;">**Available**</mark> |
+| 14                 | 35%               | <mark style="color:green;">**Available**</mark> |
+| 15                 | 30%               | <mark style="color:green;">**Available**</mark> |
+| 16                 | 25%               | <mark style="color:green;">**Available**</mark> |
+| 17                 | 20%               | <mark style="color:green;">**Available**</mark> |
+| 18                 | 15%               | <mark style="color:green;">**Available**</mark> |
+| 19                 | 10%               | <mark style="color:green;">**Available**</mark> |
+| 20                 | 5%                | <mark style="color:green;">**Available**</mark> |

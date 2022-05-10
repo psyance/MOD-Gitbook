@@ -18,11 +18,11 @@ The following is a table that outlines all the _Methods_ that you can earn point
 | [Burn n00b Hero](earning-points.md#burn-a-token)       | 250 Points | None                        |
 | [Burn Hardcore Hero](earning-points.md#burn-a-token)   | 500 Points | None                        |
 
-## Discord Post
+## Discord Post 📝
 
 You can earn 1 point for every post that you make in the NFTArcade discord every 5 minutes. You can make as many posts as you like, but you will only get credit 5 minutes after the last post. We want to encourage interaction, but we don't need a spam-train running through the Discord either 😁
 
-## Exploring
+## Exploring 🔍
 
 While enjoying some relaxing time in the Etherverse with your fellow Destonians, you may choose to explore the Etherverse for some bonus points!&#x20;
 
@@ -49,7 +49,7 @@ For all battles with Villains encountered by exploring, you can only win points.
 
 
 
-## Ownership Points
+## Ownership Points 🎉
 
 While our Heroes are [Exploring](earning-points.md#exploring), they may run into a [Villain](../tokens/villains/). And if they do, the [Discord Bot](broken-reference) will randomly select a Villain for them to fight. Should the Villain that is randomly selected be one that you own the NFT for, and the Hero loses the battle, you will be awarded a portion of the points that the battling Hero lost!
 
@@ -59,7 +59,7 @@ While our Heroes are [Exploring](earning-points.md#exploring), they may run into
 | Mini-Boss    | 50                       |
 | Boss         | 100                      |
 
-## Tweets
+## Tweets 🐦
 
 To earn points from a tweet, you must include the hashtag #MintOfDestiny and tag @NFTArca\_de in a tweet, then copy the link into discord to run the "/tweet \[link]" command in the chat.
 
@@ -73,7 +73,7 @@ To prevent spamming, we are limiting the amount of tweets you can post to earn p
 
 ![Sample Tweet](<../.gitbook/assets/image (4).png>)
 
-## Refer-a-Friend
+## Refer-a-Friend 👫
 
 For every friend that you refer to the Discord channel to play the game, you will earn 10 points. We will only be awarding points via this method until all of the initial n00b role NFTs have been minted. Once they're gone, we will no longer be awarding points for referrals.
 
