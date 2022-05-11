@@ -6,7 +6,7 @@ description: a.k.a. The Developers / Devs
 
 The Mint of Destiny is the brain child of 2 guys with God Mode powers in Blockchain game development. They have developed many NFT-based games before this one and have worked with some large blockchain game developers. Most notably, they have created side-games for [Wizards and Dragons](https://wnd.game) and [Space NFT Game](https://spacenft.game).
 
-### adoom
+### ![](../.gitbook/assets/Face.png) adoom
 
 Having worked over 20 years in IT security working for some of the largest financial institutions in the world, federal agencies, and private corporations, he has built out enterprise-level architectures and deployments that are heavily relied upon. He has been working in crypto for the past 4 years, and been actively developing Solidity smart contracts, web3 front end integrations, and coming up with groundbreaking NFT utility for his clients and [NFTArcade](https://nftarca.de).
 
