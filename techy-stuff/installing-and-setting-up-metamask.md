@@ -23,3 +23,5 @@ Now copy and paste the following details:
 * **Block explorer:** `https://polygonscan.com`
 
 ![](<../.gitbook/assets/image (4).png>)
+
+After filling in all the details, click **Save**. You will now find the newly added Polygon Mainnet in the network list.
