@@ -10,7 +10,7 @@ The Mint of Destiny is the brain child of 2 guys with God Mode powers in Blockch
 
 Having worked over 20 years in IT security working for some of the largest financial institutions in the world, federal agencies, and private corporations, he has built out enterprise-level architectures and deployments that are heavily relied upon. He has been working in crypto for the past 4 years, and been actively developing Solidity smart contracts, web3 front end integrations, and coming up with groundbreaking NFT utility for his clients and [NFTArcade](https://nftarca.de).
 
-adoom is part of the [Krypto Sucks!](https://kryptosucks.com) team that has his face out there for the world to see via their podcasts, he doesn't cower behind the anona-dev personas that the sketch NFT world lives in.
+adoom is part of the [Krypto Sucks!](https://www.kryptosucks.com) team that has his face out there for the world to see via their podcasts, he doesn't cower behind the anona-dev personas that the sketch NFT world lives in.
 
 ### ![](../.gitbook/assets/01-small.png)wilb
 
