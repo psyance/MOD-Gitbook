@@ -50,3 +50,4 @@
 * [Contracts](refrences/contracts.md)
 * [Blockchain](techy-stuff/blockchain.md)
 * [Token Usage Rights](techy-stuff/token-usage-rights.md)
+* [Installing and Setting up Metamask](techy-stuff/installing-and-setting-up-metamask.md)
