@@ -9,7 +9,7 @@
 
 ## Gameplay
 
-* [❗ Getting Started - 101](gameplay/getting-started-101.md)
+* [Getting Started - 101](gameplay/getting-started-101.md)
 * [Join the Game](gameplay/join-the-game.md)
 * [Earning Points](gameplay/earning-points.md)
 * [Hero Rank](gameplay/hero-rank.md)
