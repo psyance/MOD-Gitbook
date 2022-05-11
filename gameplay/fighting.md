@@ -11,16 +11,10 @@ The only way to level up your Hero in the game is to [/fight](../discord-bot/fig
 All fights take place within Discord. You will need to issue the following command:
 
 ```
-/fight [Villain Type]
+/fight
 ```
 
-Your options for \[Villain Type] are:
-
-* [Minion](../tokens/villains/minion.md)
-* [Mini-Boss](../tokens/villains/mini-boss.md)
-* [Boss](../tokens/villains/boss.md)
-
-When you submit this command and have the proper requirements (see individual Villain Token details for these), the [Discord Bot](broken-reference) will return the details of the Villain you have chosen to do battle with. At this time you can see the Villain Type, their Level (chance of winning), a thumbnail of the NFT that will be won, and two options to choose from to continue:
+When you submit this command, you will have challenged the rank of Villain. If you have the proper requirements (see individual Villain Token details for these), the [Discord Bot](broken-reference) will return the details of the Villain you have chosen to do battle with. At this time you can see the Villain Type, their Level (chance of winning), a thumbnail of the NFT that will be won, and two options to choose from to continue:
 
 1. <mark style="color:purple;">**Fight**</mark> - This will enter your Hero into battle with the Villain. Should you win, you will receive the NFT of the Villain you just defeated, and the Hero NFT of the new role you just acquired.
 2. <mark style="color:purple;">**Run**</mark> - Change your mind and don't want to fight? You can run away and only loose half the points of a loss.
