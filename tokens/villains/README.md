@@ -8,15 +8,7 @@ description: >-
 
 ### What Are Villains?
 
-At the beginning of time, wait... no. _BEFORE_ the beginning of time, the [Mint of Destiny](../../gameplay/the-mint-of-destiny.md) was forged by the [Minting Godz](../../about/minting-godz.md) in fires of a birthing star (yes... time hasn't started yet. Go with me here). When the creatures from the dark side of the birthing star (maybe behind a moon or something) saw the radiating glow that is the Mint of Destiny, they were stunned and proclaimed:
-
-![](../../.gitbook/assets/napoleon-dynamite.gif)
-
-So being the bad guys that they are, they immediately stole it and hid it away inside an impossible labyrinth of un-updatable code. And for some reason unbeknownst to any mere mortal, they told everyone about it, and challenged the Etherverse Heroes to come and get it. They reportedly even taunted the Heroes with "Nana nana boo boo!"
-
-And here is where time started, from the sheer rage of the Minting Godz by losing the Mint of Destiny to the Villains! It cause a giant explosion (aka... the Big Bang) and sent tiny bits of silicon all over the Etherverse that eventually evolved into Hero NFTs over billions of years. May even a gigatrillion years. A long time... that's what we're trying to say here. Anyway, now that the Hero NFTs have been born from from the stardust of the beginning, it's up to you to capture these Villains into static, one of a kind, silicon wafers (where do you think the idea of carboinite came from? Yup, Villain NFTs) and achieve the impossible task of reaching the Mint of Destiny. To prove to the Minting Godz that you have it, you will have to prove that you are worthy by ringing the Galaxian bell that is the Big Green Button! For accomplishing such a feat, the Minting Godz will reward this singular Hero with so much silicon treasure (more NFTs) stored away in the Vault, that their tiny little head would explode if it wasn't so big to hold all of their ego.
-
-
+Villains are the keepers of the Mint of Destiny. They have been scattered around the Etherverse to try any keep the Heroes away from reaching the Mint of Destiny. You can encounter them from [Exploring](../../discord-bot/explore.md), and if you feel you are ready to take them on directly, you can [Fight](../../gameplay/fighting.md) them in a duel!
 
 {% hint style="info" %}
 <mark style="color:red;">**IMPORTANT**</mark>: You can only earn 1 Villain NFT per wallet / discord name from fighting. Once you fight a Minion and win a n00b NFT, you can no longer win additional n00b or Minion NFTs. So if you sell it, the only want to get it back is to buy it back on a secondary market.
@@ -27,3 +19,5 @@ There are three types of Villains within The Mint of Destiny Etherverse:
 * <mark style="color:purple;">**Minions**</mark> - More annoying than scary
 * <mark style="color:purple;">**Mini-Bosses**</mark> - Challenging but drunk most of the time
 * <mark style="color:purple;">**Bosses**</mark> - They take their job seriously, and get joy from slaying Heroes
+
+For each type of Villain, there are only a limited amount of NFTs that can be minted of each. Once they have all been won by Heroes, they can still be encountered while [Exploring](../../gameplay/earning-points.md) for additional points, and the owners of the Villains will win a portion of the points when their Villain defeats a challenging Hero. These points are referred to as [Ownership Points](../../gameplay/earning-points.md).

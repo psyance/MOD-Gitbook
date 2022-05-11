@@ -20,11 +20,11 @@ The foundation of the game is to genuinely participate in the NFTArcade Discord 
 
 You can use your points to fight various [Villains](../tokens/villains/) that will win you NFTs that grant you roles within the Discord and stack to gain the chance to with the [Mint of Destiny](../gameplay/the-mint-of-destiny.md)!
 
-### Attempt the Mint of Destiny
+### Attempt to Win a Kill Screen
 
 Once you have acquired the [n00b](../tokens/heroes/n00b.md) Hero Token, [Hardcore](../tokens/heroes/hardcore.md) Hero Token, and the [Legendary](../tokens/heroes/legendary.md) Hero Token, you can attempt to win a 1-of-20 [Kill Screen](../tokens/kill-screens.md). Whoever wins Kill Screen #20 will be minted the 1-of-1-of-1 [Mint of Destiny](../gameplay/the-mint-of-destiny.md)!
 
-### Open the Vault
+### Win the Mint of Destiny and Open the Vault
 
 The ONE that owns the [Mint of Destiny](../gameplay/the-mint-of-destiny.md) can push the Big Green Button and claim all the prizes contained in [The Vault](../gameplay/the-vault.md).
 
