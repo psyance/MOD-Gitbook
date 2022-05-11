@@ -44,19 +44,9 @@
 * [/burn](discord-bot/burn.md)
 * [/killscreen](discord-bot/killscreen.md)
 
-## Website
-
-* [Home](website/home.md)
-* [The Game](website/the-game/README.md)
-  * [Fight History](website/the-game/fight-history.md)
-  * [Player Listing](website/the-game/player-listing.md)
-* [How to Play](website/how-to-play.md)
-* [FAQ](website/faq.md)
-* [About](website/about.md)
-
 ## Techy Stuff
 
+* [Official Links](techy-stuff/official-links.md)
+* [Contracts](refrences/contracts.md)
 * [Blockchain](techy-stuff/blockchain.md)
 * [Token Usage Rights](techy-stuff/token-usage-rights.md)
-* [Contracts](refrences/contracts.md)
-* [Official Links](techy-stuff/official-links.md)
