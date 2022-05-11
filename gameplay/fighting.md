@@ -19,6 +19,10 @@ When you submit this command, you will have challenged the rank of Villain. If y
 1. <mark style="color:purple;">**Fight**</mark> - This will enter your Hero into battle with the Villain. Should you win, you will receive the NFT of the Villain you just defeated, and the Hero NFT of the new role you just acquired.
 2. <mark style="color:purple;">**Run**</mark> - Change your mind and don't want to fight? You can run away and only loose half the points of a loss.
 
+{% hint style="info" %}
+The Discord Bot will always challenge you with a Villain of the lowest type that you do not have. So if you have a Hardcore Role, but not the n00b role, you will be challenged with a Minion to fight. So make sure to keep at least 1 of each role in your wallet!
+{% endhint %}
+
 ### Villain Rank
 
 The rank of a Villain is directly tied to the chance of winning the fight when you attempt it. The level is 1/10th the chance you have to lose. So if a Villain is a Level 4, you will have a 40% chance of losing the fight against them. There is nothing you can do to improve or worsen the odds. Everyone that fights that Villain will have the same 60% chance of winning.
