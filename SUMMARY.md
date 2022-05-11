@@ -3,6 +3,7 @@
 ## About
 
 * [Introduction](README.md)
+* [The Story](about/the-story.md)
 * [Minting Godz](about/minting-godz.md)
 * [Goals](about/goals.md)
 
