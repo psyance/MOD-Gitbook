@@ -14,7 +14,7 @@ The Mint of Destiny is the world's first Discord NFT game where you play entirel
 
 Throughout the game, you will have to battle [Minions](tokens/villains/minion.md), [Mini-Bosses](tokens/villains/mini-boss.md), and [Bosses](tokens/villains/boss.md) to level your [Hero](tokens/heroes/) up. If your are successful in your challenges, you will win 1 NFT for your new role, and 1 NFT of the [Villain](tokens/villains/) that you have defeated.
 
-If you are one of the lucky few to have defeated a [Boss](tokens/villains/boss.md) and retained all of your roles on the journey, you can attempt to [Kill Screen](gameplay/kill-screens.md) the game. There are only 20 available and they increase in difficulty as they are won.
+If you are one of the lucky few to have defeated a [Boss](tokens/villains/boss.md) and retained all of your roles on the journey, you can attempt to [Kill Screen](tokens/kill-screens.md) the game. There are only 20 available and they increase in difficulty as they are won.
 
 Whomever the final victor of [Kill Screen](tokens/kill-screens.md) #20 is, will be deemed THE ONE. They have proven themselves worth to the [Minting Godz ](about/minting-godz.md)and be awarded [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)!
 
