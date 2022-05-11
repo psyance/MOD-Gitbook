@@ -12,7 +12,7 @@ Having worked over 20 years in IT security working for some of the largest finan
 
 adoom is part of the [Krypto Sucks!](https://kryptosucks.com) team that has his face out there for the world to see via their podcasts, he doesn't cower behind the anona-dev personas that the sketch NFT world lives in.
 
-### wilb
+### ![](../.gitbook/assets/01-small.png)wilb
 
 Arguably one of the best developers in the Etherverse, wilb has been working in enterprise development projects for most of the past decade. Well-versed in every major language out there, wilb take the title of "The Smart One" in the group. Having run massive mining operations, and edge-pushing AI for crypto bot-trading software, wilb has a hardline to the blockchain.
 
