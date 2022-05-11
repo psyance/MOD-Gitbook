@@ -61,7 +61,7 @@ While our Heroes are [Exploring](earning-points.md#exploring), they may run into
 
 ## Tweets 🐦
 
-To earn points from a tweet, you must include the hashtag #MintOfDestiny and tag @NFTArca\_de in a tweet, then copy the link into discord to run the "/tweet \[link]" command in the chat.
+To earn points from a tweet, you must first be following [@NFTArca\_de](https://twitter.com/nftarca\_de) and include the hashtag #MintOfDestiny and tag @NFTArca\_de in a tweet, then copy the link into discord to run the "/tweet \[link]" command in the chat.
 
 ```
 /tweet https://twitter.com/kryptosucks/status/1523744500048609280
