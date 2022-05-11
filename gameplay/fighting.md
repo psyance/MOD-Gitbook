@@ -51,7 +51,7 @@ We have a full history of every battle that has ever taken place in the game on 
 
 #### Minion Vs.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 #### Mini-Boss Vs.
 
