@@ -6,7 +6,7 @@ description: These guys mean business
 
 ![Level 4 Mini-Boss](../../.gitbook/assets/140.png)
 
-Mini-Bosses patrol the Etherverse keeping all of the Minions in check. They make sure that the they're not slacking off at the [Drunken Wizard](https://drunkenwizard.nftarca.de) getting utterly obliterated. Mini-Bosses are ranked from Level 3 to Level 5. This means you have a 30% - 50% chance of losing when fighting a Mini-Boss.
+Mini-Bosses patrol the Etherverse keeping all of the Minions in check. They make sure that the they're not slacking off at the [Drunken Wizard](https://drunkenwizard.nftarca.de) getting utterly obliterated. Mini-Bosses are ranked from Level 4 to Level 6. This means you have a 40% - 60% chance of losing when fighting a Mini-Boss.
 
 ### How To Defeat a Mini-Boss
 
@@ -20,7 +20,7 @@ To fight a Mini-Boss, issue the following command in discord once you have at le
 
 |                              |          |
 | ---------------------------- | -------- |
-| Mini-Boss Levels             | 3-5      |
+| Mini-Boss Levels             | 4-6      |
 | Role Needed to Fight         | n00b     |
 | Role Acquired When You Win   | Hardcore |
 | Token Minting Cap            | 2,500    |

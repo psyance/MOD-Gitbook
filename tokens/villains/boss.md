@@ -6,7 +6,7 @@ description: The Gatekeepers of Legendary Status
 
 ![Level 5 Boss](../../.gitbook/assets/273.png)
 
-Bosses are the eternal Gatekeepers of the Etherverse. Their sole purpose of existence is to smite down all those that challenge them. Bosses are ranked from Level 5 to Level 7. This means you have a 50% - 70% chance of losing when fighting a Boss.
+Bosses are the eternal Gatekeepers of the Etherverse. Their sole purpose of existence is to smite down all those that challenge them. Bosses are ranked from Level 7 to Level 8. This means you have a 70% - 80% chance of losing when fighting a Boss.
 
 ### How to Defeat a Boss
 
@@ -20,7 +20,7 @@ To fight a Boss, issue the following command in discord once you have at least 1
 
 |                              |           |
 | ---------------------------- | --------- |
-| Boss Levels                  | 5-7       |
+| Boss Levels                  | 7-8       |
 | Role Needed to Fight         | Hardcore  |
 | Role Acquired When You Win   | Legendary |
 | Token Minting Cap            | 1,000     |
