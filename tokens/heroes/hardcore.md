@@ -4,7 +4,7 @@ description: Now we're talking! Those that appreciate the grind!
 
 # Hardcore
 
-![](../../.gitbook/assets/7.png)
+![Hardcore NFT](../../.gitbook/assets/7.png)
 
 The Hardcore role is the second role that a Hero can earn in the game. This role is granted to those that have shown extreme skill in the game and are truly on the quest of greatness to attain the Mint of Destiny!
 

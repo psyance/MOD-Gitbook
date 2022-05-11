@@ -4,7 +4,7 @@ description: The elite assassins that are worships by those beneath them
 
 # Legendary
 
-![](../../.gitbook/assets/509.png)
+![Legendary NFT](../../.gitbook/assets/509.png)
 
 The Legendary role is the third and final role that a Hero can earn in the game. If you have the good fortune to see this role attached to your Hero, you can rest assured that you have secured your spot into greatness that only a select few can attain. Those that earn Legendary status make Navy Seals look like a group of kids in the shallow end with those arm floaty things on them.
 
