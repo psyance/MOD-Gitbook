@@ -1,3 +1,9 @@
+---
+description: >-
+  Bot command in Discord to attempt to beat a Kill Screen and possibly win the
+  Mint of Destiny!
+---
+
 # /killscreen
 
 {% hint style="info" %}
