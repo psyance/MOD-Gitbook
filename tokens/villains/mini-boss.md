@@ -12,7 +12,7 @@ Mini-Bosses patrol the Etherverse keeping all of the Minions in check. They make
 
 First, you must have already defeated a Minion in a fight and have the n00b role. If you have the n00b role and you have earned enough points, you can attempt to [fight](../../gameplay/fighting.md) a Mini-Boss. If you are successful in defeating the Mini-Boss, you will be granted the Hardcore role, a Hardcore Hero NFT, and the NFT of the Mini-Boss that you have defeated. There are only 2,500 Mini-Bosses that can be minted.&#x20;
 
-To fight a Mini-Boss, issue the following command in discord once you have at least 500 points:
+To fight a Mini-Boss, issue the following command in discord once you have at least 500 points and do not have the Hardcore role:
 
 ```
 /fight mini-boss
