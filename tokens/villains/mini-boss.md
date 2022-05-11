@@ -15,7 +15,7 @@ First, you must have already defeated a Minion in a fight and have the n00b role
 To fight a Mini-Boss, issue the following command in discord once you have at least 500 points and do not have the Hardcore role:
 
 ```
-/fight
+/fight mini-boss
 ```
 
 |                              |          |

@@ -15,7 +15,7 @@ First, you must have already defeated a [Mini-Boss](mini-boss.md) and achieved t
 To fight a Boss, issue the following command in discord once you have at least 1,500 points and do not have the Legendary role:
 
 ```
-/fight
+/fight boss
 ```
 
 |                              |           |
