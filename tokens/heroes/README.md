@@ -16,7 +16,7 @@ When you join the Discord, you will initially be given the role of Lurker. This 
 
 There are four roles within The Mint of Destiny:
 
-* <mark style="color:purple;">**Lurker**</mark> - A watcher on the sidelines. Non-token role of someone not playing the game
+* <mark style="color:purple;">**Lurker**</mark> - A watcher on the sidelines. Non-token role of someone that just started.
 * <mark style="color:purple;">**n00b**</mark> (Hero Role: not so scary)
 * <mark style="color:purple;">**Hardcore**</mark> (Hero Role: pretty darn scary)
 * <mark style="color:purple;">**Legendary**</mark> (Hero Role: do not make eye contact or you'll burst into flames, scary!)
