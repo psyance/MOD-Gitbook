@@ -18,4 +18,4 @@ Arguably one of the best developers in the Etherverse, wilb has been working in 
 
 wilb is the other half of the Krypto Sucks! team with his face out for everyone to envy his majestic beard with as well. No anona-devs here!
 
-![https://KryptoSucks.com](../.gitbook/assets/FullLogo-100.png)
+![https://www.KryptoSucks.com](../.gitbook/assets/FullLogo-100.png)
