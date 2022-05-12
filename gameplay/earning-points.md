@@ -38,8 +38,8 @@ In the Discord, just enter the following command. Just remember that you can onl
 
 Here is a list of everything that can be found while exploring:
 
-1. NOTHING! - 40% chance
-2. Bonus Points - 30% chance (Win 1-5 Points)
+1. NOTHING! - 50% chance
+2. Bonus Points - 20% chance (Win 1-5 Points)
 3. Villains - 20% chance
 4. Trap - 10% chance (Loose 5-10 Points)
 
