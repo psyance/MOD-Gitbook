@@ -16,5 +16,5 @@ Throughout the game, you will have to battle [Minions](tokens/villains/minion.md
 
 If you are one of the lucky few to have defeated a [Boss](tokens/villains/boss.md) and retained all of your roles on the journey, you can attempt to [Kill Screen](tokens/kill-screens.md) the game. There are only 20 available and they increase in difficulty as they are won.
 
-Whomever the final victor of [Kill Screen](tokens/kill-screens.md) #20 is, will be deemed THE ONE. They have proven themselves worth to the [Minting Godz ](about/minting-godz.md)and be awarded [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)!
+Whomever the final victor of [Kill Screen](tokens/kill-screens.md) #20 is, will be deemed THE ONE. They have proven themselves worth to the [Minting Godz ](about/minting-godz.md)and be awarded [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)! The owner of this 1-of-1-of-1 NFT can push the Big Green Button and be deemed worthy to unlock [The Vault](gameplay/the-vault.md) and receive all the treasures locked inside!
 
