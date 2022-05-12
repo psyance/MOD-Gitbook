@@ -29,8 +29,8 @@
   * [MMA Fighter](tokens/skins/mma-fighter.md)
   * [Mars Man](tokens/hero-skins/mars-man.md)
   * [ETH Geek](tokens/hero-skins/eth-geek.md)
-  * [❗ Social Media Rockstar](tokens/skins/social-media-rockstar.md)
-  * [❗ Attention Whore](tokens/hero-skins/attention-whore.md)
+  * [Social Media Rockstar](tokens/hero-skins/social-media-rockstar.md)
+  * [Copy of Social Media Rockstar](tokens/hero-skins/copy-of-social-media-rockstar.md)
 * [Kill Screens](tokens/kill-screens.md)
 * [THE MINT OF DESTINY](gameplay/the-mint-of-destiny.md)
 

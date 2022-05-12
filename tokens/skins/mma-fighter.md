@@ -6,7 +6,9 @@ description: Luck of the Irish!
 
 ![](../../.gitbook/assets/skin-mma\_fighter.jpg)
 
-Our very first Hero Skin. What else screams, "I'm here to kick ass and chew bubblegum. And I'm all out of bubblegum!" Give your profile this unique skin limited to only 50 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
+Our very first Hero Skin. What else screams, "I'm here to kick ass and chew bubblegum. And I'm all out of bubblegum!"&#x20;
+
+Give your profile this unique skin limited to only 50 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
 
 Remember that you _MUST_ have the Role in the wallet of the corresponding token to be able to buy the Hero Skin. So if you want to buy the Hardcore MMA Fighter Hero Skin, you must have earned the Hardcore Role and have it in the wallet.
 

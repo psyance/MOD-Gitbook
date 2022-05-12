@@ -6,7 +6,9 @@ description: Luck of the Irish!
 
 ![](../../.gitbook/assets/skin-mars\_man.jpg)
 
-Ever wanted to be a trillionaire that can pump the shit out of an alt coin and buy exo-planets? Give your profile this unique skin limited to only 50 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
+Ever wanted to be a trillionaire that can pump the shit out of an alt coin and buy exo-planets?&#x20;
+
+Give your profile this unique skin limited to only 50 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
 
 Remember that you _MUST_ have the Role in the wallet of the corresponding token to be able to buy the Hero Skin. So if you want to buy the Hardcore Mars Man Hero Skin, you must have earned the Hardcore Role and have it in the wallet.
 
