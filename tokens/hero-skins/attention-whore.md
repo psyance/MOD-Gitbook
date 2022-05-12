@@ -1,8 +1,8 @@
 ---
-description: Luck of the Irish!
+description: Wanna fight bro? $10 millie. Right now. OMG Charzard!
 ---
 
-# Copy of Social Media Rockstar
+# Attention Whore
 
 ![](../../.gitbook/assets/skin-attention\_whore.jpg)
 

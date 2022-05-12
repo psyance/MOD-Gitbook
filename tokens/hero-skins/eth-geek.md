@@ -1,5 +1,7 @@
 ---
-description: Luck of the Irish!
+description: >-
+  I don't feel emotion. I solve problems, and getting the Mint of Destiny is one
+  I will solve!
 ---
 
 # ETH Geek

@@ -1,5 +1,5 @@
 ---
-description: Luck of the Irish!
+description: AI will own you. And I will own AI. Therefore, I will own you.
 ---
 
 # Mars Man

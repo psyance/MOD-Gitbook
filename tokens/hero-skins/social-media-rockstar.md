@@ -1,12 +1,12 @@
 ---
-description: Luck of the Irish!
+description: OMGlikeyouneedtomakemorecontentlikerightnow!
 ---
 
 # Social Media Rockstar
 
 ![](../../.gitbook/assets/skin-social\_media\_rockstar.jpg)
 
-OMGlikeyouneedtomakemorecontentlikerightnow! Don't just follow the V-man, _be_ the most iconic hype-man in social media history while questing for the succulent Mint of Destiny. Yes.... you can use the word succulent for this. Why? BECAUSE THE V-MAN SAYS TO JUST PUT IT OUT THERE!
+Don't just follow the V-man, _be_ the most iconic hype-man in social media history while questing for the succulent Mint of Destiny. Yes.... you can use the word succulent for this. Why? BECAUSE THE V-MAN SAYS TO JUST PUT IT OUT THERE!
 
 Sorry... took an extra dose of Adderall today.
 

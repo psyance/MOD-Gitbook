@@ -9,3 +9,5 @@ description: >-
 {% hint style="info" %}
 All commands must be issued in the <mark style="color:purple;">**#general-chat**</mark> channel
 {% endhint %}
+
+Read more about [Exploring the Etherverse for rewards](../gameplay/earning-points.md).
