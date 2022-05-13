@@ -29,11 +29,19 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 ### Rank Categories
 
-| Villain Type                                 | Ranks | Chance of Winning | Hero Awarded                               |
+| Villain Type                                 | Ranks | Chance of Winning | Hero NFT Awarded                           |
 | -------------------------------------------- | ----- | ----------------- | ------------------------------------------ |
 | [Minion](../tokens/villains/minion.md)       | 1 - 3 | 90% - 70%         | [n00b](../tokens/heroes/n00b.md)           |
 | [Mini-Boss](../tokens/villains/mini-boss.md) | 3 - 5 | 70% - 50%         | [Hardcore](../tokens/heroes/hardcore.md)   |
 | [Boss](../tokens/villains/boss.md)           | 5 - 7 | 50% - 30%         | [Legendary](../tokens/heroes/legendary.md) |
+
+### <img src="https://mintofdestiny.xyz/assets/img/others/win.png" alt="" data-size="line"> Winning
+
+If you defeat a Villain from challenging them to a fight, you will be awarded the NFT of the Villain you defeated, the corresponding Hero NFT, and the Discord Role that is assigned from the Hero NFT.
+
+### Losing
+
+you lose
 
 ### Fight History
 
