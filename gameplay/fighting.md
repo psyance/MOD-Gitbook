@@ -4,7 +4,7 @@ description: We encourage violence... against Villains. Because they're bad.
 
 # Fighting
 
-The only way to level up your Hero in the game is to [/fight](../discord-bot/fight.md) Villains! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary points and roles to be able to fight the Villain.
+The only way to level up your Hero in the game is to Challenge the Villains to a duel! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary points and roles to be able to fight the Villain.
 
 ### How to fight
 
@@ -20,7 +20,7 @@ When you submit this command, you will have challenged the rank of Villain. If y
 2. <mark style="color:purple;">**Run**</mark> - Change your mind and don't want to fight? You can run away and only loose half the points of a loss.
 
 {% hint style="info" %}
-The Discord Bot will always challenge you with a Villain of the lowest type that you do not have. So if you have a Hardcore Role, but not the n00b role, you will be challenged with a Minion to fight. So make sure to keep at least 1 of each role in your wallet!
+The Discord Bot will always challenge you with a Villain of the lowest type that you do not own. So if you have a Hardcore Role, but not the n00b role, you will be challenged with a Minion to fight. So make sure to keep at least 1 of each role in your wallet!
 {% endhint %}
 
 ### Villain Rank
@@ -29,11 +29,11 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 ### Rank Categories
 
-| Villain Type                                 | Ranks | Chance of Winning |
-| -------------------------------------------- | ----- | ----------------- |
-| [Minion](../tokens/villains/minion.md)       | 1 - 3 | 90% - 70%         |
-| [Mini-Boss](../tokens/villains/mini-boss.md) | 3 - 5 | 70% - 50%         |
-| [Boss](../tokens/villains/boss.md)           | 5 - 7 | 50% - 30%         |
+| Villain Type                                 | Ranks | Chance of Winning | Hero Awarded                               |
+| -------------------------------------------- | ----- | ----------------- | ------------------------------------------ |
+| [Minion](../tokens/villains/minion.md)       | 1 - 3 | 90% - 70%         | [n00b](../tokens/heroes/n00b.md)           |
+| [Mini-Boss](../tokens/villains/mini-boss.md) | 3 - 5 | 70% - 50%         | [Hardcore](../tokens/heroes/hardcore.md)   |
+| [Boss](../tokens/villains/boss.md)           | 5 - 7 | 50% - 30%         | [Legendary](../tokens/heroes/legendary.md) |
 
 ### Fight History
 
