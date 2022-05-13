@@ -30,5 +30,5 @@ Once that is completed, you will be given 50 points as a bonus to start with and
 
 ### Earn Points, Fight Villains, Gain Status!
 
-From here you play the game as outlined in this whitepaper. You should skip to [Earning Points](earning-points.md) to see how you can earn enough points so that you can [Fight](fighting.md) your first [Minion](../tokens/villains/minion.md) to attempt to win the [n00b](../tokens/heroes/n00b.md) role!
+From here you play the game as outlined in this whitepaper. You should skip to [Earning Points](earning-points/) to see how you can earn enough points so that you can [Fight](fighting.md) your first [Minion](../tokens/villains/minion.md) to attempt to win the [n00b](../tokens/heroes/n00b.md) role!
 

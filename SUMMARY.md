@@ -10,7 +10,13 @@
 ## Gameplay
 
 * [Getting Started - 101](gameplay/getting-started-101.md)
-* [Earning Points](gameplay/earning-points.md)
+* [Earning Points](gameplay/earning-points/README.md)
+  * [📝 Discord Post](gameplay/earning-points/discord-post.md)
+  * [🔎 Exploring](gameplay/earning-points/exploring.md)
+  * [🌟 Ownership Points](gameplay/earning-points/ownership-points.md)
+  * [🐦 Tweets](gameplay/earning-points/tweets.md)
+  * [🗣 Refer-a-Friend](gameplay/earning-points/refer-a-friend.md)
+  * [🔥 Burn a Token](gameplay/earning-points/burn-a-token.md)
 * [Hero Rank](gameplay/hero-rank.md)
 * [Fighting](gameplay/fighting.md)
 * [The Vault](gameplay/the-vault.md)

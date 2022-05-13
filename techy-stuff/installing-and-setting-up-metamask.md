@@ -2,7 +2,7 @@
 
 ### Step 1 - Install Metamask
 
-Download the [Metamask](https://metamask.io) wallet browser extension or mobile app.
+Download the [Metamask](https://metamask.io/) wallet browser extension or mobile app.
 
 If you're new, click **Create a Wallet**. If you already have a compatible wallet, you can also select **Import Wallet**.
 
