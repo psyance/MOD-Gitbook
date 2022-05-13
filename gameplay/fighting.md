@@ -47,25 +47,9 @@ Should you be defeated by the Villain that you challenged, points will be stripp
 
 We have a full history of every battle that has ever taken place in the game on our website [https://mintofdestiny.xyz/match.html](https://mintofdestiny.xyz/match.html). The site shows who attempted to battle which Villain, the round number, the outcome of that battle, and the date that it occurred.
 
-#### Victory
-
-![](https://mintofdestiny.xyz/assets/img/others/win.png)
-
-#### Loss
-
-![](https://mintofdestiny.xyz/assets/img/others/lost.png)
-
-#### Minion Vs.
-
-![](<../.gitbook/assets/image (3) (1).png>)
-
-#### Mini-Boss Vs.
-
-![](https://mintofdestiny.xyz/assets/img/others/game-vs3.webp)
-
-#### Boss Vs.
-
-![](https://mintofdestiny.xyz/assets/img/others/game-vs1.webp)
+|               Minion Challenge              |                       Mini-Boss Challenge                      |                         Boss Challenge                         |
+| :-----------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
+| ![](<../.gitbook/assets/image (3) (1).png>) | ![](https://mintofdestiny.xyz/assets/img/others/game-vs3.webp) | ![](https://mintofdestiny.xyz/assets/img/others/game-vs1.webp) |
 
 ![](<../.gitbook/assets/image (2).png>)
 
