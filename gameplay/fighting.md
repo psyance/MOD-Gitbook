@@ -41,7 +41,7 @@ If you defeat a Villain from challenging them to a fight, you will be awarded th
 
 ### <img src="https://mintofdestiny.xyz/assets/img/others/lost.png" alt="" data-size="line"> Losing
 
-you lose
+Should you be defeated by the Villain that you challenged, points will be stripped from your Hero and you will be publicly called out for failing miserably in shame. Points lost are determined by the Villain type that you are fighting.
 
 ### Fight History
 
