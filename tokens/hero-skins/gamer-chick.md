@@ -1,0 +1,30 @@
+---
+description: Luck of the Irish!
+---
+
+# Gamer Chick
+
+![](../../.gitbook/assets/skin-mma\_fighter.jpg)
+
+{% hint style="info" %}
+<mark style="color:purple;">**Launch Date:**</mark> _<mark style="color:red;">Coming Soon!</mark>_
+{% endhint %}
+
+Our very first Hero Skin! We understand that there's some amazingly awesome Gamer Chicks out there and dudes that want to be chicks. Don't worry, we got you covered! Literally. Not that way, you perv... more in the Ed Gein, "I like to wear my mom's face" kind of way 🥰. I bet you're thinking of "Skins" a whole new way now huh? LOL!
+
+Give your profile this unique skin limited to only 350 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
+
+Remember that you _MUST_ have the Role in the wallet of the corresponding token to be able to buy the Hero Skin. So if you want to buy the Hardcore MMA Fighter Hero Skin, you must have earned the Hardcore Role and have it in the wallet.
+
+We want to give our players the reward of being able to acquire these limited tokens and not have them be a free-for-all by the masses. Reward your most loyal we say!
+
+| Role      | Total Tokens | Cost (WETH / MATIC / GBAR)                |
+| --------- | ------------ | ----------------------------------------- |
+| n00b      | 200          | _<mark style="color:purple;">FREE</mark>_ |
+| Hardcore  | 100          | _<mark style="color:purple;">FREE</mark>_ |
+| Legendary | 50           | _<mark style="color:purple;">FREE</mark>_ |
+
+{% hint style="info" %}
+Hero Skins can not be burned for points
+{% endhint %}
+

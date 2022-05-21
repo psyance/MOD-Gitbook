@@ -6,7 +6,11 @@ description: Luck of the Irish!
 
 ![](../../.gitbook/assets/skin-mma\_fighter.jpg)
 
-Our very first Hero Skin. What else screams, "I'm here to kick ass and chew bubblegum. And I'm all out of bubblegum!"&#x20;
+{% hint style="info" %}
+<mark style="color:purple;">**Launch Date:**</mark> _<mark style="color:red;">Coming Soon!</mark>_
+{% endhint %}
+
+What else screams, "I'm here to kick ass and chew bubblegum. And I'm all out of bubblegum!"&#x20;
 
 Give your profile this unique skin limited to only 50 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
 

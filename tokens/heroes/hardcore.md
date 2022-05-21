@@ -10,7 +10,7 @@ The Hardcore role is the second role that a Hero can earn in the game. This role
 
 ### How To Earn Hardcore
 
-Just as there are no shortcuts in life, there are no shortcuts to reach the Mint of Destiny. You must have already defeated a [Minion](../villains/minion/) and acquired the [n00b](n00b.md) role to be able to attempt to win the Hardcore role. Once you have earned enough points, you can attempt to [/fight](../../discord-bot/fight.md) a [Mini-Boss](../villains/mini-boss.md). If you are successful in defeating the [Mini-Boss](../villains/mini-boss.md), you will be granted the Hardcore role, a Hardcore Hero NFT, and the NFT of the [Mini-Boss](../villains/mini-boss.md) that you have defeated. There are only 2,500 Hardcore roles that can be minted. Here is where we begin to separate the Heroes from the zeros!
+Just as there are no shortcuts in life, there are no shortcuts to reach the Mint of Destiny. You must have already defeated a [Minion](../villains/minion.md) and acquired the [n00b](n00b.md) role to be able to attempt to win the Hardcore role. Once you have earned enough points, you can attempt to [/fight](../../discord-bot/fight.md) a [Mini-Boss](../villains/mini-boss.md). If you are successful in defeating the [Mini-Boss](../villains/mini-boss.md), you will be granted the Hardcore role, a Hardcore Hero NFT, and the NFT of the [Mini-Boss](../villains/mini-boss.md) that you have defeated. There are only 2,500 Hardcore roles that can be minted. Here is where we begin to separate the Heroes from the zeros!
 
 ### Hardcore Discord Role
 

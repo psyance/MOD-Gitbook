@@ -6,6 +6,10 @@ description: AI will own you. And I will own AI. Therefore, I will own you.
 
 ![](../../.gitbook/assets/skin-mars\_man.jpg)
 
+{% hint style="info" %}
+<mark style="color:purple;">**Launch Date:**</mark> _<mark style="color:red;">Coming Soon!</mark>_
+{% endhint %}
+
 Ever wanted to be a trillionaire that can pump the shit out of an alt coin and buy exo-planets?&#x20;
 
 Give your profile this unique skin limited to only 50 tokens for sale via the Mint of Destiny Website. Exact quantities and prices are listed below and on the website.
