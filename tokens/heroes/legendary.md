@@ -1,5 +1,5 @@
 ---
-description: These elite assassins that are worshiped by those beneath them
+description: The elite assassins that are worshiped by those beneath them
 ---
 
 # Legendary
