@@ -29,11 +29,11 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 ### Rank Categories
 
-| Villain Type                                 | Ranks | Chance of Winning | Hero NFT Awarded                           |
-| -------------------------------------------- | ----- | ----------------- | ------------------------------------------ |
-| [Minion](../tokens/villains/minion.md)       | 1 - 3 | 90% - 70%         | [n00b](../tokens/heroes/n00b.md)           |
-| [Mini-Boss](../tokens/villains/mini-boss.md) | 3 - 5 | 70% - 50%         | [Hardcore](../tokens/heroes/hardcore.md)   |
-| [Boss](../tokens/villains/boss.md)           | 5 - 7 | 50% - 30%         | [Legendary](../tokens/heroes/legendary.md) |
+| Villain Type                               | Ranks | Chance of Winning | Hero NFT Awarded                           |
+| ------------------------------------------ | ----- | ----------------- | ------------------------------------------ |
+| [Minion](../tokens/villains/minion.md)     | 1 - 3 | 90% - 70%         | [n00b](../tokens/heroes/n00b.md)           |
+| [Mini-Boss](../tokens/villains/mini-boss/) | 3 - 5 | 70% - 50%         | [Hardcore](../tokens/heroes/hardcore.md)   |
+| [Boss](../tokens/villains/boss/)           | 5 - 7 | 50% - 30%         | [Legendary](../tokens/heroes/legendary.md) |
 
 ### <img src="https://mintofdestiny.xyz/assets/img/others/win.png" alt="" data-size="line"> Victorious Battle
 
@@ -51,5 +51,5 @@ We have a full history of every battle that has ever taken place in the game on 
 | :-----------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 | ![](<../.gitbook/assets/image (3) (1).png>) | ![](https://mintofdestiny.xyz/assets/img/others/game-vs3.webp) | ![](https://mintofdestiny.xyz/assets/img/others/game-vs1.webp) |
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 

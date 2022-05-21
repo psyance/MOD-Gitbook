@@ -4,7 +4,7 @@ description: Bad guy fodder
 
 # Minion
 
-![Level 1 Minion](../../.gitbook/assets/56.png)
+![Minion #8428](../../.gitbook/assets/8428.png)
 
 These little annoyances are scattered throughout the Etherverse to be offered up more as a sacrificial pawn to those looking to cut their teeth in the game. There are a variety of unique minions with different traits and levels to spice things up a bit. Minions have are ranked from Level 1 to Level 3. This means you have a 10% - 30% chance of losing when fighting a Minion.
 

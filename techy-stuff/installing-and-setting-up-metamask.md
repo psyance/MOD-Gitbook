@@ -12,7 +12,7 @@ Your wallet information is extremely important and very sensitive. If you lose y
 
 In Metamask, click on the current network which is Ethereum Mainnet by default. At the bottom of the list of networks, click **Add Network**.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Now copy and paste the following details:
 
@@ -22,6 +22,6 @@ Now copy and paste the following details:
 * **Symbol:** `MATIC`
 * **Block explorer:** `https://polygonscan.com`
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 After filling in all the details, click **Save**. You will now find the newly added Polygon Mainnet in the network list.
