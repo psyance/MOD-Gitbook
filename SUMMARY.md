@@ -55,3 +55,7 @@
 * [⛓ Blockchain](techy-stuff/blockchain.md)
 * [👍 Token Usage Rights](techy-stuff/token-usage-rights.md)
 * [🦊 Installing and Setting up Metamask](techy-stuff/installing-and-setting-up-metamask.md)
+* [📈 Rarity Levels By Attribute](techy-stuff/rarity-levels-by-attribute/README.md)
+  * [All Tokens](techy-stuff/rarity-levels-by-attribute/all-tokens.md)
+  * [Heroes](techy-stuff/rarity-levels-by-attribute/heroes.md)
+  * [Villains](techy-stuff/rarity-levels-by-attribute/villains.md)
