@@ -2,7 +2,7 @@
 description: Life goals? No. More important than that!
 ---
 
-# Goals
+# ⛳ Goals
 
 There is really only one true goal of this game, and it is to be the ONE that receives the God-like status of the owner of [<mark style="color:green;">**THE MINT OF DESTINY!**</mark>](../gameplay/the-mint-of-destiny.md)<mark style="color:green;">****</mark>
 

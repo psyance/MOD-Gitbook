@@ -7,5 +7,5 @@ description: Raw Data of all attributes for rarity levels
 
 
 * [All Tokens](all-tokens.md)
-* [Heroes](heroes.md)
+* [Heroes](heroes/)
 * [Villains](villains.md)

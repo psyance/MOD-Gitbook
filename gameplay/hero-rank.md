@@ -2,7 +2,7 @@
 description: Who's the best? We let the world know.
 ---
 
-# Hero Rank
+# 🥇 Hero Rank
 
 Everyone wants to know who the best player is in any games, so we have made a simple way to show the top players in order by rank. A players ranks is purely determined by the amount of points that they have earned cumulatively throughout the duration of the game.
 

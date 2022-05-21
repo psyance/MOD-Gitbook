@@ -1,4 +1,4 @@
-# THE MINT OF DESTINY
+# 🏆 THE MINT OF DESTINY
 
 ![](../.gitbook/assets/MintOfDestiny.png)
 

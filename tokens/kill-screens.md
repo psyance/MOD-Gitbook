@@ -2,7 +2,7 @@
 description: The more they are won, the harder they get!
 ---
 
-# Kill Screens
+# 👾 Kill Screens
 
 ![](../.gitbook/assets/KillScreen1-200.jpg)
 

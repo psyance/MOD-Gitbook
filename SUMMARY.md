@@ -57,5 +57,7 @@
 * [🦊 Installing and Setting up Metamask](techy-stuff/installing-and-setting-up-metamask.md)
 * [📈 Rarity Levels By Attribute](techy-stuff/rarity-levels-by-attribute/README.md)
   * [All Tokens](techy-stuff/rarity-levels-by-attribute/all-tokens.md)
-  * [Heroes](techy-stuff/rarity-levels-by-attribute/heroes.md)
+  * [Heroes](techy-stuff/rarity-levels-by-attribute/heroes/README.md)
+    * [n00b](techy-stuff/rarity-levels-by-attribute/heroes/n00b.md)
+    * [Hardcore](techy-stuff/rarity-levels-by-attribute/heroes/hardcore.md)
   * [Villains](techy-stuff/rarity-levels-by-attribute/villains.md)

@@ -4,7 +4,7 @@ description: >-
   an echo)
 ---
 
-# Introduction
+# 🙂 Introduction
 
 ![https://NFTArca.de](.gitbook/assets/NFTArcade-Logo-Hanging.png)
 

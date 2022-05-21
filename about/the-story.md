@@ -2,7 +2,7 @@
 description: How it all began BEFORE it began!
 ---
 
-# The Story
+# 📘 The Story
 
 At the beginning of time, wait... no. _BEFORE_ the beginning of time, the [Mint of Destiny](../gameplay/the-mint-of-destiny.md) was forged by the [Minting Godz](minting-godz.md) in fires of a birthing star (yes... time hasn't started yet. Go with me here). When the creatures from the dark side of the birthing star (maybe behind a moon or something) saw the radiating glow that is the Mint of Destiny, they were stunned and proclaimed:
 

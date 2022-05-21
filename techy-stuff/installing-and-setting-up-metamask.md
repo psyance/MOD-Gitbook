@@ -1,4 +1,4 @@
-# Installing and Setting up Metamask
+# 🦊 Installing and Setting up Metamask
 
 ### Step 1 - Install Metamask
 

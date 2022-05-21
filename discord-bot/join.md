@@ -2,7 +2,7 @@
 description: Bot command in Discord to Join the Mint of Destiny game
 ---
 
-# /join
+# 🤖 /join
 
 Use this command to [join the game](broken-reference) from within the NFTArcade Discord. You need to do this first before you can do anything else in the game.
 

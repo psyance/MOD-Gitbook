@@ -2,7 +2,7 @@
 description: You are the hero!
 ---
 
-# Heroes
+# 🦸 Heroes
 
 ### What Are Heroes?
 

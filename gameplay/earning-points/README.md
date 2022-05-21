@@ -2,7 +2,7 @@
 description: Earn Points. Win Roles. Write History.
 ---
 
-# Earning Points
+# 🎯 Earning Points
 
 The entire gameplay foundations revolves around the point system. There are various ways for you to earn points, and you'll need them to be able to fight the Villains to win roles, increase your [Hero Rank](../hero-rank.md), and all other in-game mechanics.
 

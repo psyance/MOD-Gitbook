@@ -2,7 +2,7 @@
 description: a.k.a. The Big Green Button
 ---
 
-# The Vault
+# 🔒 The Vault
 
 ## What's in the Vault?&#x20;
 
