@@ -2,27 +2,27 @@
 
 ### Phirefly
 
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (35).png>)
 
 ### Lavafly
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (26).png>)
 
 ### Hallow
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (11).png>)
 
 ### Bat-a-Cat
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 ### Poison Noodle
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (44).png>)
 
 ### Sly Noodle
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 ### SeaFrost
 
@@ -30,15 +30,15 @@
 
 ### Frosty
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 ### CyToad
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 ### CyFrog
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (20).png>)
 
 ### Dr Noodles
 
@@ -46,12 +46,12 @@
 
 ### Dr Noodles III
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (38).png>)
 
 ### Aquabat
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (33).png>)
 
 ### Vampyre
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (24).png>)
