@@ -4,7 +4,7 @@ description: Luck of the Irish!
 
 # Gamer Chick
 
-![](../../.gitbook/assets/skin-mma\_fighter.jpg)
+![](../../.gitbook/assets/Gamer\_Chick.jpg)
 
 {% hint style="info" %}
 <mark style="color:purple;">**Launch Date:**</mark> _<mark style="color:red;">Coming Soon!</mark>_
