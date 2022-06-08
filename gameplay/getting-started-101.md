@@ -8,13 +8,19 @@ description: 'aka: How do I play?'
 
 You will need to have a wallet on MetaMask or Coinbase Wallet that has at least 0.1 ETH in it. There is no cost to join the game and play (not even gas!) but we do this to prevent spammers from clogging up the game and stealing all the NFTs =)
 
-If you don't have Metamask or not sure how to set it up, [we have a guide on how to do all this.](../techy-stuff/installing-and-setting-up-metamask.md)
+If you don't have MetaMask or not sure how to set it up, [we have a guide on how to do all this.](../techy-stuff/installing-and-setting-up-metamask.md)
 
 ### Join Our Discord
 
 You can access discord via their website ([https://Discord.com](https://discord.gg/rgPPDMWC)), or from a client on your computer, or even from their mobile app. Create an account with them, verify your email and phone number (don't worry, that stays with Discord), and then head over to our Discord channel and say hi!
 
-Our Discord Link: [https://discord.gg/rgPPDMWC](https://discord.gg/rgPPDMWC)
+
+
+{% hint style="info" %}
+**Our Discord Link:** <mark style="color:purple;">**\[ OPEN TO WHITELIST USERS ONLY ]**</mark>
+{% endhint %}
+
+
 
 ### Verify Your Wallet via Discord
 
