@@ -20,7 +20,7 @@ Yep, you heard that right. There is a [Big Green Button](the-vault.md) on the we
 * <mark style="color:purple;">**All expenses paid trip from anywhere in the world to Las Vegas to hang out with the Minting Godz for a weekend!\***</mark>
 * <mark style="color:purple;">**An all expenses paid trip from anywhere in the world to Puerto Rico to enjoy your success on the beaches of the Caribbean for a weekend\***</mark>
 * A tattoo of any of your NFTs while in Puerto Rico provided by [<mark style="color:purple;">**Live Once Ink**</mark>](https://www.liveonceink.com)<mark style="color:purple;">****</mark>
-* A guaranteed whitelist spot or airdrop to their wallet of every main NFT that NFTArcade makes for a game FOREVER!
+* _A guaranteed whitelist spot or airdrop to their wallet of every main NFT that NFTArcade makes for a game **FOREVER!**_
 * 1 Hero n00b NFT
 * 1 Hero Hardcore NFT
 * 1 Hero Legendary NFT
