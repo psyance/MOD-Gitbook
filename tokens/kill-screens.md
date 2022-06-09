@@ -32,7 +32,7 @@ eg:
 /killscreen 2342 5634 8043
 ```
 
-You will be presented with the confirmation that you want to proceed with a Kill Screen attempt, and that by doing so, you will be putting those NFTs up for chance. You've laid it all out on the line, and now comes the moment of truth! Depending on which Kill Screen number you are attempting will determine [the difficulty of the attack](kill-screens.md#kill-screen-difficulty-levels).&#x20;
+You will be presented with the confirmation that you want to proceed with a Kill Screen attempt, and that by doing so, you will be putting those NFTs up for chance. You've laid it all out on the line, and now comes the moment of truth! Depending on which Kill Screen number you are attempting will determine [the difficulty of the attack](kill-screens.md#kill-screen-difficulty-levels). Obviously, you can only enter token IDs of tokens that you own (and yes, we verify on the chain to make sure 😈)
 
 {% hint style="info" %}
 <mark style="color:red;">**IMPORTANT:**</mark> The Kill Screens are attempted _in order_, so it's _<mark style="color:purple;">MASSIVELY</mark>_ beneficial to get there before everyone else does!
@@ -56,7 +56,7 @@ With your new-found worthiness, you can now push the Big Green Button and claim 
 
 ### If You Lose
 
-Should you lose at the Kill Screen attempt, you will forfeit 2,100 points and all of your staked NFTs will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
+Should you lose at the Kill Screen attempt, you will forfeit 2,100 points and all of your NFTs that you  listed in the command will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
 
 If you want to take another shot at a Kill Screen you will have to earn back enough points and purchase the necessary Hero Tokens from the secondary market.
 
