@@ -34,5 +34,5 @@ Yep, you heard that right. There is a [Big Green Button](the-vault.md) on the we
 * 1 Complete Set of Hero Skin Social Media Rockstar (noob / Hardcore / Legendary)
 * 1 Complete Set of Hero Skin Attention Whore (noob / Hardcore / Legendary)
 
-&#x20;\* You have to be legally able to get there (Passport / travel restrictions / etc). Airfare, hotel, taxis at destination, and per diem for food and drinks are all covered by the Minting Godz.
+&#x20;\* You have to be legally able to get there (Passport / travel restrictions / etc). Airfare, hotel, taxis at destination, and per diem for food and drinks are all covered by the Minting Godz. Dates and times will be worked out with MoD owner after it is awarded.
 
