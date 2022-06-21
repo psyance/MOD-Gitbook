@@ -1,6 +1,6 @@
 # 🏆 THE MINT OF DESTINY
 
-![](../.gitbook/assets/MintOfDestiny.png)
+![The Mint of Destiny!](../.gitbook/assets/MintOfDestiny1.png)
 
 ### What is the Mint of Destiny?
 
