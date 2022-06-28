@@ -45,10 +45,14 @@ You will have just proven to the world that you are an Über-Elite Templar Ninja
 Additionally, all Kill Screen holders will receive a guaranteed whitelist spot or airdrop to their wallet of every main NFT that NFTArcade makes for a game FOREVER!
 
 {% hint style="info" %}
-<mark style="color:purple;">**The winner of Kill Screen #20 will be immediately awarded THE MINT OF DESTINY!**</mark>
+<mark style="color:purple;">**Only 1 Kill Screen can be awarded per wallet! So choose wisely which one you're going for!**</mark>
 {% endhint %}
 
 #### Winner of Kill Screen #20
+
+{% hint style="info" %}
+<mark style="color:purple;">**The winner of Kill Screen #20 will be immediately awarded THE MINT OF DESTINY!**</mark>
+{% endhint %}
 
 Angles will sing from above, the community will rejoice of your seemingly impossible accomplishment, and your enemies will be forever mega-jelly of your undeniable social status as the one and only true holder of [THE MINT OF DESTINY!](broken-reference)
 
