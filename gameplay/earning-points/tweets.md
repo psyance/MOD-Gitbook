@@ -1,6 +1,6 @@
 # 🐦 Tweets
 
-To earn Rupeez from a tweet, you must first be following [@NFTArca\_de](https://twitter.com/nftarca\_de) and include the hashtag #MintOfDestiny and tag @NFTArca\_de in a tweet, then copy the link into discord to run the "/tweet \[link]" command in the chat.
+To earn Rupeez from a tweet, you must first be following [@NFTArca\_de](https://twitter.com/nftarca\_de) and include the hashtag <mark style="color:purple;">**#MintOfDestiny**</mark> and tag <mark style="color:purple;">**@NFTArca\_de**</mark> in a tweet, then copy the link into discord to run the "/tweet \[link]" command in the chat.
 
 ```
 /tweet https://twitter.com/kryptosucks/status/1523744500048609280
