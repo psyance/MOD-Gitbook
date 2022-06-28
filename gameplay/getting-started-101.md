@@ -32,7 +32,7 @@ Now that you're in the NFTArcade Discord, you can join the game super easy. Firs
 
 That will open your browser and take you to the NFTArcade verification page. Here you will click on the Big Green Button. This will open up your wallet (Metamask, etc) to sign a message to verify that you own the wallet address and associate it with your discord name. There are no fees or gas costs to do this and it's totally safe. It's like logging in with your wallet.
 
-Once that is completed, you will be given 50 Rupeez as a bonus to start with and you can begin your journey. You will then be prompted that you can close the window, and back in Discord you will now be granted the Lurker role. At this point you're in the game! You will now start earning points for your interaction with the game and the community!
+Once that is completed, you will be given <img src="../.gitbook/assets/Rupeez-small (2).png" alt="" data-size="line">50 Rupeez as a bonus to start with and you can begin your journey. You will then be prompted that you can close the window, and back in Discord you will now be granted the Lurker role. At this point you're in the game! You will now start earning points for your interaction with the game and the community!
 
 ### Earn Rupeez, Fight Villains, Gain Status!
 
