@@ -10,7 +10,7 @@ The following is a table that outlines all the _Methods_ that you can earn Rupee
 
 | Method                                  | Amount                                                                                   | Cool-down Period            |
 | --------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |
-| [Discord Post](discord-post.md)         | <img src="../../.gitbook/assets/Rupeez-small (6).png" alt="" data-size="line">1 Rupee    | 5 Minutes                   |
+| [Discord Post](discord-post.md)         | <img src="../../.gitbook/assets/Rupeez-small (7).png" alt="" data-size="line">1 Rupee    | 5 Minutes                   |
 | [Exploring](exploring.md)               | <mark style="color:purple;">Various</mark>                                               | 1 Hour                      |
 | [Ownership Rupeez](ownership-points.md) | <mark style="color:purple;">Various</mark>                                               | None                        |
 | [Tweets](tweets.md)                     | <img src="../../.gitbook/assets/Rupeez-small (5).png" alt="" data-size="line">20 Rupeez  | 6 Hours                     |
