@@ -6,11 +6,11 @@
 
 You have the ability to [burn](../../discord-bot/burn.md) a Hero token to gain massive quantities of Rupeez if you're going for a speed run, or having to recoup to make another attempt for the higher tokens. Depending on which token you burn, you will get a varying amount Rupeez.
 
-| Hero Token Burned | Rupeez Earned                                                                       |
-| ----------------- | ----------------------------------------------------------------------------------- |
-| n00b              | <img src="../../.gitbook/assets/Rupeez-small (5).png" alt="" data-size="line">250   |
-| Hardcore          | <img src="../../.gitbook/assets/Rupeez-small (11).png" alt="" data-size="line">500  |
-| Legendary         | <img src="../../.gitbook/assets/Rupeez-small (8).png" alt="" data-size="line">1,000 |
+| Hero Token Burned | Rupeez Earned                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| n00b              | <img src="../../.gitbook/assets/Rupeez-small (5).png" alt="" data-size="line"> 250   |
+| Hardcore          | <img src="../../.gitbook/assets/Rupeez-small (11).png" alt="" data-size="line"> 500  |
+| Legendary         | <img src="../../.gitbook/assets/Rupeez-small (8).png" alt="" data-size="line"> 1,000 |
 
 {% hint style="info" %}
 Hero Skins can not be burned by the game. Only Hero Default tokens.
