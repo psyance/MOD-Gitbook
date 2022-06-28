@@ -6,7 +6,9 @@
 
 ### Discord
 
-[https://discord.gg/rgPPDMWC](https://discord.gg/rgPPDMWC)
+{% hint style="info" %}
+**Our Discord Link:** <mark style="color:purple;">**\[ OPEN TO WHITELIST USERS ONLY ]**</mark>
+{% endhint %}
 
 ### Twitter
 
