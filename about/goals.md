@@ -10,15 +10,15 @@ Other goals of the game could be to win some free NFTs, level up your [Hero](../
 
 ## Game Path
 
-_<mark style="color:purple;">Participate in Discord to Earn Points</mark>_ **>** _<mark style="color:purple;">Fight Villains to Win NFTs</mark>_ **>** _<mark style="color:purple;">Attempt the Mint of Destiny</mark>_ **>** _<mark style="color:purple;">Open the Vault</mark>_
+_<mark style="color:purple;">Participate in Discord to Earn Rupeez</mark>_ **>** _<mark style="color:purple;">Fight Villains to Win NFTs</mark>_ **>** _<mark style="color:purple;">Attempt the Mint of Destiny</mark>_ **>** _<mark style="color:purple;">Open the Vault</mark>_
 
-### Participate to Earn Points
+### Participate to Earn Rupeez
 
-The foundation of the game is to genuinely participate in the NFTArcade Discord and enjoy the comradery of those that are also playing the game. As you interact with other gamers and play the other [NFTArcade](https://nftarca.de) games, you will win points and GBAR. Both of these can be used to [earn points ](../gameplay/earning-points/)and buy [Hero Skins](../tokens/skins/)
+The foundation of the game is to genuinely participate in the NFTArcade Discord and enjoy the comradery of those that are also playing the game. As you interact with other gamers and play the other [NFTArcade](https://nftarca.de) games, you will win Rupeez and GBAR. Both of these can be used to [Earn Rupeez](../gameplay/earning-rupeez/) and buy [Hero Skins](../tokens/skins/)
 
 ### Fight Villains to Win NFTs
 
-You can use your points to fight various [Villains](../tokens/villains/) that will win you NFTs that grant you roles within the Discord and stack to gain the chance to with the [Mint of Destiny](../gameplay/the-mint-of-destiny.md)!
+You can wager your Rupeez to fight various [Villains](../tokens/villains/) that will win you NFTs that grant you roles within the Discord and stack to gain the chance to with the [Mint of Destiny](../gameplay/the-mint-of-destiny.md)!
 
 ### Attempt to Win a Kill Screen
 

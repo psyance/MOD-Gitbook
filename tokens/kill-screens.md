@@ -21,7 +21,7 @@ You will need a few things first before you even _think_ about attempting a Kill
 * [n00b](heroes/n00b.md) NFT
 * [Hardcore](heroes/hardcore.md) NFT
 * [Legendary](heroes/legendary.md) NFT
-* [4,200 Points](../gameplay/earning-points/)
+* [4,200 Points](../gameplay/earning-rupeez/)
 
 Once you have all of those you can run the following command in Discord to launch the next step in the Kill Screen prep command to verify your supreme gaming abilities (that you meet the requirements to try):
 
