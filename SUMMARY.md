@@ -15,7 +15,6 @@
   * [🔎 Exploring](gameplay/earning-points/exploring.md)
   * [🌟 Ownership Rupeez](gameplay/earning-points/ownership-points.md)
   * [🐦 Tweets](gameplay/earning-points/tweets.md)
-  * [🗣 Refer-a-Friend](gameplay/earning-points/refer-a-friend.md)
   * [🔥 Burn a Token](gameplay/earning-points/burn-a-token.md)
 * [🥇 Hero Rank](gameplay/hero-rank.md)
 * [⚔ Fighting](gameplay/fighting.md)

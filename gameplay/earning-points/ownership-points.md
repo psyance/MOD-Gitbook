@@ -4,6 +4,6 @@ While our Heroes are [Exploring](ownership-points.md#exploring), they may run in
 
 | Villain Type | Ownership Rupeez Awarded                                                           |
 | ------------ | ---------------------------------------------------------------------------------- |
-| Minion       | <img src="../../.gitbook/assets/Rupeez-small (8).png" alt="" data-size="line">10   |
-| Mini-Boss    | <img src="../../.gitbook/assets/Rupeez-small (9).png" alt="" data-size="line">50   |
-| Boss         | <img src="../../.gitbook/assets/Rupeez-small (10).png" alt="" data-size="line">100 |
+| Minion       | <img src="../../.gitbook/assets/Rupeez-small (9).png" alt="" data-size="line">10   |
+| Mini-Boss    | <img src="../../.gitbook/assets/Rupeez-small (10).png" alt="" data-size="line">50  |
+| Boss         | <img src="../../.gitbook/assets/Rupeez-small (12).png" alt="" data-size="line">100 |
