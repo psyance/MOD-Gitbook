@@ -4,7 +4,7 @@ description: We encourage violence... against Villains. Because they're bad.
 
 # ⚔ Fighting
 
-The only way to level up your Hero in the game is to Challenge the Villains to a duel! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary points and roles to be able to fight the Villain.
+The only way to level up your Hero in the game is to Challenge the Villains to a duel! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary Rupeez and roles to be able to fight the Villain.
 
 ### How to fight
 
@@ -17,7 +17,7 @@ All fights take place within Discord. You will need to issue the following comma
 When you submit this command, you will have challenged the rank of Villain. If you have the proper requirements (see individual Villain Token details for these), the [Discord Bot](broken-reference) will return the details of the Villain you have chosen to do battle with. At this time you can see the Villain Type, their Level (chance of winning), a thumbnail of the NFT that will be won, and two options to choose from to continue:
 
 1. <mark style="color:purple;">**Fight**</mark> - This will enter your Hero into battle with the Villain. Should you win, you will receive the NFT of the Villain you just defeated, and the Hero NFT of the new role you just acquired.
-2. <mark style="color:purple;">**Run**</mark> - Change your mind and don't want to fight? You can run away and only loose half the points of a loss.
+2. <mark style="color:purple;">**Run**</mark> - Change your mind and don't want to fight? You can run away and only loose half the Rupeez of a loss.
 
 {% hint style="info" %}
 The Discord Bot will always challenge you with a Villain of the lowest type that you do not own. So if you have a Hardcore Role, but not the n00b role, you will be challenged with a Minion to fight. So make sure to keep at least 1 of each role in your wallet!
@@ -41,7 +41,7 @@ If you defeat a Villain from challenging them to a fight, you will be awarded th
 
 ### <img src="https://mintofdestiny.xyz/assets/img/others/lost.png" alt="" data-size="line"> Shameful Loss
 
-Should you be defeated by the Villain that you challenged, points will be stripped from your Hero and you will be publicly called out for failing miserably in shame. Points lost are determined by the Villain type that you are fighting.
+Should you be defeated by the Villain that you challenged, Rupeez will be stripped from your Hero and you will be publicly called out for failing miserably in shame. The amount of Rupeez lost are determined by the Villain type that you are fighting.
 
 ### Fight History
 

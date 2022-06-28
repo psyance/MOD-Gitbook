@@ -20,4 +20,4 @@ There are three types of Villains within The Mint of Destiny Etherverse:
 * <mark style="color:purple;">**Mini-Bosses**</mark> - Challenging but drunk most of the time
 * <mark style="color:purple;">**Bosses**</mark> - They take their job seriously, and get joy from slaying Heroes
 
-For each type of Villain, there are only a limited amount of NFTs that can be minted of each. Once they have all been won by Heroes, they can still be encountered while [Exploring](../../gameplay/earning-points/) for additional points, and the owners of the Villains will win a portion of the points when their Villain defeats a challenging Hero. These points are referred to as [Ownership Points](../../gameplay/earning-points/).
+For each type of Villain, there are only a limited amount of NFTs that can be minted of each. Once they have all been won by Heroes, they can still be encountered while [Exploring](../../gameplay/earning-points/) for additional Rupeez, and the owners of the Villains will win a portion of the Rupeez when their Villain defeats a challenging Hero. These Rupeez are referred to as [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md).

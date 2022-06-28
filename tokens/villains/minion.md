@@ -10,22 +10,22 @@ These little annoyances are scattered throughout the Etherverse to be offered up
 
 ### How To Defeat a Minion
 
-First, you must have already joined the game in Discord ([/join](../../discord-bot/join.md)). After you have joined into the game, you will now begin to earn points. Once you have earned enough points, you can attempt to [fight](../../gameplay/fighting.md) a Minion. If you are successful in defeating the Minion, you will be granted the n00b role, a n00b Hero NFT, and the NFT of the Minion that you have defeated. There are only 5,000 Minions that can be minted.&#x20;
+First, you must have already joined the game in Discord ([/join](../../discord-bot/join.md)). After you have joined into the game, you will now begin to earn Rupeez. Once you have earned enough Rupeez, you can attempt to [fight](../../gameplay/fighting.md) a Minion. If you are successful in defeating the Minion, you will be granted the n00b role, a n00b Hero NFT, and the NFT of the Minion that you have defeated. There are only 5,000 Minions that can be minted.&#x20;
 
-To fight a minion, issue the following command in discord once you have at least 100 points and do not have the n00b role:
+To fight a minion, issue the following command in discord once you have at least 100 Rupeez and do not have the n00b role:
 
 ```
 /fight
 ```
 
-|                              |        |
-| ---------------------------- | ------ |
-| Minion Levels                | 1-3    |
-| Role Needed to Fight         | Lurker |
-| Role Acquired When You Win   | n00b   |
-| Token Minting Cap            | 5,000  |
-| Points Needed to Fight       | 100    |
-| Points Deducted if You Lose  | 50     |
-| Points Deducted if You Run   | 25     |
-| Ownership Points When Fought | 10     |
+|                                                                                   |        |
+| --------------------------------------------------------------------------------- | ------ |
+| Minion Levels                                                                     | 1-3    |
+| Role Needed to Fight                                                              | Lurker |
+| Role Acquired When You Win                                                        | n00b   |
+| Token Minting Cap                                                                 | 5,000  |
+| Rupeez Needed to Fight                                                            | 100    |
+| Rupeez Deducted if You Lose                                                       | 50     |
+| Rupeez Deducted if You Run                                                        | 25     |
+| [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md) When Fought | 10     |
 

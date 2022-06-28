@@ -25,6 +25,6 @@ We want to give our players the reward of being able to acquire these limited to
 | Legendary | 20           | $50                        |
 
 {% hint style="info" %}
-Hero Skins can not be burned for points
+Hero Skins can not be burned for Rupeez
 {% endhint %}
 

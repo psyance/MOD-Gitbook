@@ -21,7 +21,7 @@ You will need a few things first before you even _think_ about attempting a Kill
 * [n00b](heroes/n00b.md) NFT
 * [Hardcore](heroes/hardcore.md) NFT
 * [Legendary](heroes/legendary.md) NFT
-* [4,200 Points](../gameplay/earning-points/)
+* [4,200 ](../gameplay/earning-points/)Rupeez
 
 Once you have all of those you can run the following command in Discord to launch the next step in the Kill Screen prep command to verify your supreme gaming abilities (that you meet the requirements to try):
 
@@ -40,7 +40,7 @@ You will be presented with the confirmation that you want to proceed with a Kill
 
 ### If You Are Successful
 
-You will have just proven to the world that you are an Über-Elite Templar Ninja of Sorcery that can bend space and time as we know it! You will have your accomplishments etched for all time to the Kill Screen Title Holders page of the website, your points stay intact, your NFTs you put up for the attempts are safe and cozy in your wallet, and you will have a 1-of-20 NFT of the worlds most awesome game that has ever existed!
+You will have just proven to the world that you are an Über-Elite Templar Ninja of Sorcery that can bend space and time as we know it! You will have your accomplishments etched for all time to the Kill Screen Title Holders page of the website, your Rupeez stay intact, your NFTs you put up for the attempts are safe and cozy in your wallet, and you will have a 1-of-20 NFT of the worlds most awesome game that has ever existed!
 
 Additionally, all Kill Screen holders will receive a guaranteed whitelist spot or airdrop to their wallet of every main NFT that NFTArcade makes for a game FOREVER!
 
@@ -56,9 +56,9 @@ With your new-found worthiness, you can now push the Big Green Button and claim 
 
 ### If You Lose
 
-Should you lose at the Kill Screen attempt, you will forfeit 2,100 points and all of your NFTs that you  listed in the command will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
+Should you lose at the Kill Screen attempt, you will forfeit 2,100 Rupeez and all of your NFTs that you  listed in the command will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
 
-If you want to take another shot at a Kill Screen you will have to earn back enough points and purchase the necessary Hero Tokens from the secondary market.
+If you want to take another shot at a Kill Screen you will have to earn back enough Rupeez and purchase the necessary Hero Tokens from the secondary market.
 
 ### Kill Screen Difficulty Levels
 
