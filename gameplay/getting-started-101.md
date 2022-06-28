@@ -36,5 +36,5 @@ Once that is completed, you will be given 50 Rupeez as a bonus to start with and
 
 ### Earn Rupeez, Fight Villains, Gain Status!
 
-From here you play the game as outlined in this whitepaper. You should skip to [Earning Rupeez](earning-rupeez/) to see how you can earn enough Rupeez so that you can [Fight](fighting.md) your first [Minion](../tokens/villains/minion.md) to attempt to win the [n00b](../tokens/heroes/n00b.md) role!
+From here you play the game as outlined in this whitepaper. You should skip to [Earning Rupeez](earning-points/) to see how you can earn enough Rupeez so that you can [Fight](fighting.md) your first [Minion](../tokens/villains/minion.md) to attempt to win the [n00b](../tokens/heroes/n00b.md) role!
 
