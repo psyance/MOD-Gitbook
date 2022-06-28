@@ -13,7 +13,7 @@
 * [💎 Earning Rupeez](gameplay/earning-points/README.md)
   * [📝 Discord Post](gameplay/earning-points/discord-post.md)
   * [🔎 Exploring](gameplay/earning-points/exploring.md)
-  * [🌟 Ownership Rupeez](gameplay/earning-rupeez/ownership-rupeez.md)
+  * [🌟 Ownership Rupeez](gameplay/earning-points/ownership-points.md)
   * [🐦 Tweets](gameplay/earning-points/tweets.md)
   * [🗣 Refer-a-Friend](gameplay/earning-points/refer-a-friend.md)
   * [🔥 Burn a Token](gameplay/earning-points/burn-a-token.md)
