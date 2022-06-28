@@ -23,6 +23,8 @@ When you submit this command, you will have challenged the rank of Villain. If y
 The Discord Bot will always challenge you with a Villain of the lowest type that you do not own. So if you have a Hardcore Role, but not the n00b role, you will be challenged with a Minion to fight. So make sure to keep at least 1 of each role in your wallet!
 {% endhint %}
 
+Sometimes, the Villains can be a bit crafty and run away should you challenge them to a fight! They get away with it by dropping a pouch of Rupeez on the ground to distract you. So not all is lost!
+
 ### Villain Rank
 
 The rank of a Villain is directly tied to the chance of winning the fight when you attempt it. The level is 1/10th the chance you have to lose. So if a Villain is a Level 4, you will have a 40% chance of losing the fight against them. There is nothing you can do to improve or worsen the odds. Everyone that fights that Villain will have the same 60% chance of winning.
