@@ -24,5 +24,5 @@ For those that have somehow made it this far, you now have the ear of the [Minti
 | Villain to Defeat        | [Boss](../villains/boss.md) |
 | Token Minting Cap        | 1,000                       |
 | Minting Cost             | Free                        |
-| Can Be Burned for Rupeez | Yes (+1,000 Rupeez)         |
+| Can Be Burned for Rupeez | No                          |
 
