@@ -4,7 +4,7 @@ description: The more they are won, the harder they get!
 
 # 👾 Kill Screens
 
-![](../.gitbook/assets/KillScreen1-200.jpg)
+![](../.gitbook/assets/17.png)
 
 Kill Screens are the infamous "_Holy crap, you've gone farther in the game than was ever intended, so now it just breaks the code and dies_" screens from some of the most popular games that created the video game industry as we know it.
 
@@ -21,7 +21,7 @@ You will need a few things first before you even _think_ about attempting a Kill
 * [n00b](heroes/n00b.md) NFT
 * [Hardcore](heroes/hardcore.md) NFT
 * [Legendary](heroes/legendary.md) NFT
-* [4,200 ](../gameplay/earning-points/)Rupeez
+* [4,200 Rupeez](../gameplay/earning-points/)
 
 Once you have all of those you can run the following command in Discord to launch the next step in the Kill Screen prep command to verify your supreme gaming abilities (that you meet the requirements to try):
 
