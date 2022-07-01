@@ -26,7 +26,7 @@
 
 ### Basilisk
 
-![](<../../../.gitbook/assets/image (39).png>)
+![](<../../../.gitbook/assets/image (39) (1).png>)
 
 ### Sea Basilisk
 

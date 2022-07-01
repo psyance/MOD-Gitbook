@@ -14,7 +14,7 @@
 
 ### Bat-a-Cat
 
-![](<../../../.gitbook/assets/image (42).png>)
+![](<../../../.gitbook/assets/image (42) (1).png>)
 
 ### Poison Noodle
 
@@ -22,7 +22,7 @@
 
 ### Sly Noodle
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (30) (1).png>)
 
 ### SeaFrost
 
@@ -38,7 +38,7 @@
 
 ### CyFrog
 
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (20) (1).png>)
 
 ### Dr Noodles
 
