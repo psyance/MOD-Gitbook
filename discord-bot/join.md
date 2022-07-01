@@ -22,6 +22,6 @@ Your browser will then open up the website https://api.nftarca.de/verify with a 
 
 ![Push the Big Red Button](<../.gitbook/assets/image (42).png>)
 
-In your wallet, you will need to connect and then sign a message to verify ownership of the wallet address. It will also verify that you have a minimum balance of at least 0.1 ETH. This is to prevent spammers from joining the game.
+In your wallet, you will need to connect and then push the Big Red Button to open the wallet to sign a message to verify ownership of the wallet address. It will also verify that you have a minimum balance of at least 0.1 ETH. This is to prevent spammers from joining the game.
 
 ![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (30).png>)&#x20;
