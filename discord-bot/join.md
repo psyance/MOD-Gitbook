@@ -25,3 +25,11 @@ Your browser will then open up the website https://api.nftarca.de/verify with a 
 In your wallet, you will need to connect and then push the Big Red Button to open the wallet to sign a message to verify ownership of the wallet address. It will also verify that you have a minimum balance of at least 0.1 ETH. This is to prevent spammers from joining the game.
 
 ![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (30).png>)&#x20;
+
+Once you have verified ownership, you will be presented with a confirmation dialog that you have the Verified role and you can close the browser and return the Discord to begin playing The Mint of Destiny!
+
+![If you see this, you're good to go!](<../.gitbook/assets/image (40).png>)
+
+Back in Discord, you'll now see that your name is green and if you click on it to see your roles, you will now have the Verified role.
+
+![](<../.gitbook/assets/image (23).png>)
