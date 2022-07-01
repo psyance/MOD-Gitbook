@@ -12,6 +12,7 @@ The following is a table that outlines all the _Methods_ that you can earn Rupee
 | --------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------- |
 | [Discord Post](discord-post.md)         | <img src="../../.gitbook/assets/Rupeez-small (7).png" alt="" data-size="line"> 1 Rupee       | 5 Minutes        |
 | [Exploring](exploring.md)               | <mark style="color:purple;">Various</mark>                                                   | 1 Hour           |
+| [Fighting](../fighting.md)              | <mark style="color:purple;">Various</mark>                                                   | 6 Hours          |
 | [Ownership Rupeez](ownership-points.md) | <mark style="color:purple;">Various</mark>                                                   | None             |
 | [Tweets](tweets.md)                     | <img src="../../.gitbook/assets/Rupeez-small (5) (1).png" alt="" data-size="line"> 20 Rupeez | 6 Hours          |
 | [Burn n00b Hero](./#burn-a-token)       | <img src="../../.gitbook/assets/Rupeez-small (1).png" alt="" data-size="line"> 250 Rupeez    | None             |
