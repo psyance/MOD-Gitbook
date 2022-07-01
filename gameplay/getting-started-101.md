@@ -40,5 +40,5 @@ Once that is completed, you will be given <img src="../.gitbook/assets/Rupeez-sm
 
 ### Earn Rupeez, Fight Villains, Gain Status!
 
-From here you play the game as outlined in this whitepaper. You should skip to [Earning Rupeez](earning-points/) to see how you can earn enough Rupeez so that you can [Fight](fighting.md) your first [Minion](../tokens/villains/minion.md) to attempt to win the [n00b](../tokens/heroes/n00b.md) role!
+From here you play the game as outlined in this whitepaper. You should skip to [Earning Rupeez](earning-points/) to see how you can earn enough Rupeez so that you can [Fight](fighting.md) your first [Minion](../tokens/villains/minion.md) to attempt to win the [n00b](../tokens/heroes/n00b.md) role NFT and Minion NFT!
 
