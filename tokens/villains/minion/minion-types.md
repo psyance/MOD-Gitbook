@@ -10,7 +10,7 @@
 
 ### Hellion Cyclops
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 ### Viking Dwarf
 
@@ -70,7 +70,7 @@
 
 ### Celestial Wolfman
 
-![](<../../../.gitbook/assets/image (21) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1) (1).png>)
 
 ### Hellian Wolfman
 
