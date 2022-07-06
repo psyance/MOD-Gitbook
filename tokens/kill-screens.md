@@ -23,7 +23,7 @@ You will need a few things first before you even _think_ about attempting a Kill
 * [Legendary](heroes/legendary.md) NFT
 * [4,200 Rupeez](../gameplay/earning-points/)
 
-Once you have all of those you can run the following command in Discord to launch the next step in the Kill Screen prep command to verify your supreme gaming abilities (that you meet the requirements to try):
+Once you have all of those you can run the [<mark style="color:purple;">**/killscreen**</mark>](../discord-bot/killscreen.md) command in Discord to launch the next step in the Kill Screen prep command to verify your supreme gaming abilities (that you meet the requirements to try):
 
 ```
 /killscreen [n00b Token ID] [Hardcore Token ID] [Legendary Token ID]
@@ -60,7 +60,9 @@ With your new-found worthiness, you can now push the Big Green Button and claim 
 
 ### If You Lose
 
-Should you lose at the Kill Screen attempt, you will forfeit 2,100 Rupeez and all of your NFTs that you  listed in the command will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark> &#x20;
+Should you lose at the Kill Screen attempt, you will forfeit 2,100 Rupeez and all of your NFTs that you  listed in the command will be <mark style="color:red;background-color:orange;">**🔥   BURNED  🔥**</mark>&#x20;
+
+Yes, burned! Not only will you loose the NFTs, but they will be removed from the game FOREVER!
 
 If you want to take another shot at a Kill Screen you will have to earn back enough Rupeez and purchase the necessary Hero Tokens from the secondary market.
 
