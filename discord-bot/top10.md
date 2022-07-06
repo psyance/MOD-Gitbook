@@ -7,6 +7,6 @@ description: Bot command in list the top 10 players buy order of XP
 Use this command to show the top 10 players of the game from within the NFTArcade Discord.&#x20;
 
 {% hint style="info" %}
-All commands must be issued in the <mark style="color:purple;">**#general-chat**</mark> channel
+All commands must be issued in the <mark style="color:purple;">**#general**</mark> channel
 {% endhint %}
 
