@@ -33,3 +33,7 @@ Once you have verified ownership, you will be presented with a confirmation dial
 Back in Discord, you'll now see that your name is green and if you click on it to see your roles, you will now have the Verified role.
 
 ![](<../.gitbook/assets/image (23).png>)
+
+Once you have joined, you can run the <mark style="color:purple;">**/stats**</mark> command to see your stats as a player. When you first start out, it'll look something like this:
+
+![](<../.gitbook/assets/image (27).png>)

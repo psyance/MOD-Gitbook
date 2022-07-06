@@ -51,6 +51,7 @@
 * [🤖 /burn](discord-bot/burn.md)
 * [🤖 /killscreen](discord-bot/killscreen.md)
 * [🤖 /top10](discord-bot/top10.md)
+* [🤖 /stats](discord-bot/stats.md)
 
 ## Techy Stuff
 

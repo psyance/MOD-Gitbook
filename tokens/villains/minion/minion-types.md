@@ -18,7 +18,7 @@
 
 ### Dwarf
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (32) (1).png>)
 
 ### Elder
 
