@@ -7,6 +7,10 @@ description: Bot command in Discord to Join the Mint of Destiny game
 Use this command to [join the game](../gameplay/getting-started-101.md) from within the NFTArcade Discord. You need to do this first before you can do anything else in the game.
 
 {% hint style="info" %}
+<mark style="color:red;">**🚨 IMPORTANT 👉**</mark> **You must have at least a balance of 0.1 ETH in your wallet** that you are verifying to play with. This is to prevent spammers from ruining the game. No ETH will every be needed to be spent to play. Just to verify to be able to play.
+{% endhint %}
+
+{% hint style="info" %}
 All commands must be issued in the <mark style="color:purple;">**#general**</mark> channel
 {% endhint %}
 
