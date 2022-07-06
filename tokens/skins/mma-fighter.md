@@ -20,9 +20,9 @@ We want to give our players the reward of being able to acquire these limited to
 
 | Role      | Total Tokens | Cost (WETH / MATIC / GBAR) |
 | --------- | ------------ | -------------------------- |
-| n00b      | 25           | $10                        |
-| Hardcore  | 15           | $25                        |
-| Legendary | 10           | $50                        |
+| n00b      | 25           | TBD                        |
+| Hardcore  | 15           | TBD                        |
+| Legendary | 10           | TBD                        |
 
 {% hint style="info" %}
 Hero Skins can not be burned for Rupeez

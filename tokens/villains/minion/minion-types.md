@@ -66,7 +66,7 @@
 
 ### Wolfman
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)
 
 ### Celestial Wolfman
 

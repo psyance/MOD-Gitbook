@@ -34,7 +34,7 @@
 
 ### CyToad
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (1).png>)
 
 ### CyFrog
 
