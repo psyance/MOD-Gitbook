@@ -52,6 +52,9 @@
 * [🤖 /killscreen](discord-bot/killscreen.md)
 * [🤖 /top10](discord-bot/top10.md)
 * [🤖 /stats](discord-bot/stats.md)
+* [🤖 /help](discord-bot/help.md)
+* [🤖 /nft](discord-bot/nft.md)
+* [🤖 /profile](discord-bot/profile.md)
 
 ## Techy Stuff
 
