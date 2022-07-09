@@ -8,6 +8,10 @@ description: >-
 
 ![https://NFTArca.de](.gitbook/assets/NFTArcade-Logo-Hanging.png)
 
+{% hint style="info" %}
+**Discord Link to Play:** [<mark style="color:purple;">**https://discord.gg/vPAgf7Q772**</mark>](https://discord.gg/vPAgf7Q772)<mark style="color:purple;">****</mark>
+{% endhint %}
+
 ### Welcome to The Mint of Destiny!
 
 The Mint of Destiny is the world's first Discord NFT game developed for [NFTArcade](https://nftarca.de) where you play entirely in Discord to win NFTs that determine your roles within the Discord Channel and it's all entirely free to play! Due to the necessity for a Hero to regain ownership of the Mint of Destiny, the [Minting Godz](about/minting-godz.md) are paying for all the gas! The game and the NFTs minted from it are all on [Polygon](techy-stuff/blockchain.md). You will want to try and level up your [Hero](tokens/heroes/) (you) quicker and higher than everyone around you by earning <img src=".gitbook/assets/Rupeez-small.png" alt="" data-size="line"> Rupeez, fighting [Villains](tokens/villains/), and be the one that achieves the [Mint of Destiny](gameplay/the-mint-of-destiny.md)!

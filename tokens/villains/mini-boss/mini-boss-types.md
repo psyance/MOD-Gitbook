@@ -50,7 +50,7 @@
 
 ### Aquabat
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](<../../../.gitbook/assets/image (33) (1).png>)
 
 ### Vampyre
 
