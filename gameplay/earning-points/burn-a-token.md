@@ -15,3 +15,16 @@ You have the ability to [burn](../../discord-bot/burn.md) a Hero token to gain m
 Hero Skins can not be burned by the game. Only Hero n00b and Hardcore tokens.
 {% endhint %}
 
+### Example
+
+When you enter the burn command, you will first be presented with a confirmation prompt to make sure that you want to do this, as you can never get it back.
+
+![](<../../.gitbook/assets/image (26).png>)
+
+During the burning process, you will see this message:
+
+![](<../../.gitbook/assets/image (8).png>)
+
+Once it has been burned, you'll be notified with the amount of Rupeez and XP you have gained:
+
+![](<../../.gitbook/assets/image (6).png>)
