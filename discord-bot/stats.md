@@ -6,7 +6,7 @@ description: Bot command in list the top 10 players buy order of XP
 
 Use this command anywhere within the Discord to view your player stats in the game. When you first start out it will look something like this:
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 The following details are shown with the <mark style="color:purple;">**/stats**</mark> command:
 

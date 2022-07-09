@@ -8,4 +8,4 @@ Everyone wants to know who the best player is in any games, so we have made a si
 
 As you [Earn Rupeez](earning-points/), your XP will increase. As you use your Rupeez to fight or attempts other in-game mechanics, Rupee losses will not be removed from your total XP. Your XP can only go up!
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![Example Player Profile on Website](<../.gitbook/assets/image (23).png>)

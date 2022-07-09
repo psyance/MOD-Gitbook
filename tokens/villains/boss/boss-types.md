@@ -38,7 +38,7 @@
 
 ### ArchWraith
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (25) (1).png>)
 
 ### Hydra
 

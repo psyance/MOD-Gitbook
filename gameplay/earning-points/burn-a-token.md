@@ -12,5 +12,6 @@ You have the ability to [burn](../../discord-bot/burn.md) a Hero token to gain m
 | Hardcore          | <img src="../../.gitbook/assets/Rupeez-small (11).png" alt="" data-size="line"> 500 |
 
 {% hint style="info" %}
-Hero Skins can not be burned by the game. Only Hero Default tokens.
+Hero Skins can not be burned by the game. Only Hero n00b and Hardcore tokens.
 {% endhint %}
+

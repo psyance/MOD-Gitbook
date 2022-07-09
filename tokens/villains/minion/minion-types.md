@@ -14,11 +14,11 @@
 
 ### Viking Dwarf
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ### Dwarf
 
-![](<../../../.gitbook/assets/image (32) (1).png>)
+![](<../../../.gitbook/assets/image (32) (1) (1).png>)
 
 ### Elder
 
@@ -34,7 +34,7 @@
 
 ### Blue Goblin
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 ### Purple Goblin
 
@@ -54,7 +54,7 @@
 
 ### Glom
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (31) (1).png>)
 
 ### Bubble Glom
 
