@@ -21,7 +21,7 @@ To fight a minion, issue the following command in discord once you have at least
 |                                                                                   |        |
 | --------------------------------------------------------------------------------- | ------ |
 | Minion Levels                                                                     | 1-3    |
-| Role Needed to Fight                                                              | Player |
+| Role Needed to Fight                                                              | Lurker |
 | Role Acquired When You Win                                                        | n00b   |
 | Token Minting Cap                                                                 | 5,000  |
 | Rupeez Needed to Fight                                                            | 100    |
