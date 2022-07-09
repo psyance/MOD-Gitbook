@@ -7,7 +7,7 @@
 ### Discord
 
 {% hint style="info" %}
-**Our Discord Link:** <mark style="color:purple;">**\[ OPEN TO WHITELIST USERS ONLY ]**</mark>
+**Discord Link:** [<mark style="color:purple;">**https://discord.gg/vPAgf7Q772**</mark>](https://discord.gg/vPAgf7Q772)<mark style="color:purple;">****</mark>
 {% endhint %}
 
 ### Twitter

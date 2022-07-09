@@ -4,7 +4,7 @@ description: The more they are won, the harder they get!
 
 # 👾 Kill Screens
 
-![](../.gitbook/assets/17.png)
+<img src="../.gitbook/assets/17.png" alt="" data-size="original">
 
 Kill Screens are the infamous "_Holy crap, you've gone farther in the game than was ever intended, so now it just breaks the code and dies_" screens from some of the most popular games that created the video game industry as we know it.
 
