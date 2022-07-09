@@ -14,7 +14,7 @@ _<mark style="color:purple;">Participate in Discord to Earn Rupeez</mark>_ **>**
 
 ### Participate to Earn Rupeez
 
-The foundation of the game is to genuinely participate in the NFTArcade Discord and enjoy the comradery of those that are also playing the game. As you interact with other gamers and play the other [NFTArcade](https://nftarca.de) games, you will win Rupeez and GBAR. Both of these can be used to [Earn Rupeez](../gameplay/earning-points/) and buy [Hero Skins](../tokens/skins/)
+The foundation of the game is to genuinely participate in the NFTArcade Discord and enjoy the camaraderie of those that are also playing the game. As you interact with other players, explore the Etherverse, and other game mechanics, you will [Earn Rupeez](../gameplay/earning-points/) and be able buy [Hero Skins](../tokens/skins/)
 
 ### Fight Villains to Win NFTs
 
