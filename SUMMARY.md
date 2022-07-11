@@ -46,6 +46,7 @@
 ## Discord Bot
 
 * [🤖 /join](discord-bot/join.md)
+* [🤖 /sign](discord-bot/sign.md)
 * [🤖 /explore](discord-bot/explore.md)
 * [🤖 /fight](discord-bot/fight.md)
 * [🤖 /burn](discord-bot/burn.md)
