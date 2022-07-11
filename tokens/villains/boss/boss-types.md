@@ -34,7 +34,7 @@
 
 ### Wraith
 
-![](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (41) (1).png>)
 
 ### ArchWraith
 
