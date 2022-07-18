@@ -2,7 +2,9 @@
 
 ### Website
 
-[https://mintofdestiny.xyz](https://mintofdestiny.xyz)
+{% hint style="info" %}
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**https://mintofdestiny.xyz**</mark>](https://mintofdestiny.xyz)<mark style="color:purple;">****</mark>
+{% endhint %}
 
 ### Discord
 
@@ -12,7 +14,9 @@
 
 ### Twitter
 
-[https://twitter.com/NFTArca\_de](https://twitter.com/NFTArca\_de)
+{% hint style="info" %}
+**@NFTArca\_de:** [<mark style="color:purple;">**https://twitter.com/NFTArca\_de**</mark>](https://twitter.com/NFTArca\_de)<mark style="color:purple;">****</mark>
+{% endhint %}
 
 ### OpenSea
 
