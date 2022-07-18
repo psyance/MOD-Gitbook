@@ -57,5 +57,5 @@ We have a full history of every battle that has ever taken place in the game on 
 | :-----------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 | ![](<../.gitbook/assets/image (3) (1).png>) | ![](https://mintofdestiny.xyz/assets/img/others/game-vs3.webp) | ![](https://mintofdestiny.xyz/assets/img/others/game-vs1.webp) |
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
