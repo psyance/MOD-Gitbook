@@ -51,6 +51,7 @@
 * [🤖 /sign](discord-bot/sign.md)
 * [🤖 /explore](discord-bot/explore.md)
 * [🤖 /fight](discord-bot/fight.md)
+* [🤖 /duel](discord-bot/duel.md)
 * [🤖 /burn](discord-bot/burn.md)
 * [🤖 /killscreen](discord-bot/killscreen.md)
 * [🤖 /top10](discord-bot/top10.md)
