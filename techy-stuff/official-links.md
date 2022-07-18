@@ -16,7 +16,9 @@
 
 ### OpenSea
 
-Soon
+{% hint style="info" %}
+**Open Sea Collection:** [<mark style="color:purple;">**https://opensea.io/collection/mintofdestiny**</mark>](https://opensea.io/collection/mintofdestiny)<mark style="color:purple;">****</mark>
+{% endhint %}
 
 ### GitHub
 
