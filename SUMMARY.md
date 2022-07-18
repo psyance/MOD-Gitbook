@@ -12,7 +12,7 @@
 * [🧠 Getting Started - 101](gameplay/getting-started-101.md)
 * [💎 Earning Rupeez](gameplay/earning-points/README.md)
   * [📝 Discord Post](gameplay/earning-points/discord-post.md)
-  * [🎁 Gift Rupeez](gameplay/earning-rupeez/gift-rupeez.md)
+  * [🎁 Gifting Rupeez](gameplay/earning-rupeez/gifting-rupeez.md)
   * [🔎 Exploring](gameplay/earning-points/exploring.md)
   * [🌟 Ownership Rupeez](gameplay/earning-points/ownership-points.md)
   * [🐦 Tweets](gameplay/earning-points/tweets.md)
