@@ -18,7 +18,8 @@
   * [🐦 Tweets](gameplay/earning-points/tweets.md)
   * [🔥 Burn a Token](gameplay/earning-points/burn-a-token.md)
 * [🥇 Hero Rank](gameplay/hero-rank.md)
-* [⚔ Fighting](gameplay/fighting.md)
+* [🏆 Fighting](gameplay/fighting.md)
+* [⚔ Dueling](gameplay/dueling.md)
 * [🔒 The Vault](gameplay/the-vault.md)
 
 ## Tokens
