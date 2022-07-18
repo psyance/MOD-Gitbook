@@ -20,6 +20,7 @@
 * [🥇 Hero Rank](gameplay/hero-rank.md)
 * [🏆 Fighting](gameplay/fighting.md)
 * [⚔ Dueling](gameplay/dueling.md)
+* [🎯 Hunting](gameplay/hunting.md)
 * [🔒 The Vault](gameplay/the-vault.md)
 
 ## Tokens
