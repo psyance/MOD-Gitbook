@@ -2,7 +2,7 @@
 
 ### Golem
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 ### Rage Golem
 
@@ -38,7 +38,7 @@
 
 ### ArchWraith
 
-![](<../../../.gitbook/assets/image (25) (1).png>)
+![](<../../../.gitbook/assets/image (25) (1) (1).png>)
 
 ### Hydra
 

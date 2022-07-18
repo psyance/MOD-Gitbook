@@ -29,7 +29,7 @@ For all battles with Villains encountered by exploring, you can only win Rupeez.
 
 ### Example Explore Loss
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 ### Example Explore with no Reward
 
