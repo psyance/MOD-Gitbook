@@ -54,4 +54,4 @@
 
 ### Vampyre
 
-![](<../../../.gitbook/assets/image (24) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1).png>)
