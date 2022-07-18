@@ -23,7 +23,7 @@ When you enter the burn command, you will first be presented with a confirmation
 
 During the burning process, you will see this message:
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Once it has been burned, you'll be notified with the amount of Rupeez and XP you have gained:
 

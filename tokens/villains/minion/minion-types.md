@@ -10,7 +10,7 @@
 
 ### Hellion Cyclops
 
-![](<../../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 ### Viking Dwarf
 
