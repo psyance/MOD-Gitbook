@@ -4,7 +4,7 @@ description: We encourage violence... against Villains. Because they're bad.
 
 # 🏆 Fighting
 
-The only way to level up your Hero in the game is to Challenge the Villains to a duel! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary Rupeez and roles to be able to fight the Villain.
+The only way to level up your Hero in the game is to Challenge the Villains to a fight! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary Rupeez and roles to be able to fight the Villain.
 
 ### How to fight
 
