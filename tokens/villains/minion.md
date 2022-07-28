@@ -18,9 +18,8 @@ To fight a minion, issue the following command in discord once you have at least
 /fight
 ```
 
-|                                                                                   |        |
-| --------------------------------------------------------------------------------- | ------ |
 | Minion Levels                                                                     | 1-3    |
+| --------------------------------------------------------------------------------- | ------ |
 | Role Needed to Fight                                                              | Player |
 | Role Acquired When You Win                                                        | n00b   |
 | Token Minting Cap                                                                 | 5,000  |

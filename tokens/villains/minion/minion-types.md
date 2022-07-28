@@ -2,7 +2,7 @@
 
 ### Cyclops
 
-![](<../../../.gitbook/assets/image (3) (2) (1).png>)
+![](<../../../.gitbook/assets/image (3) (2).png>)
 
 ### Ice Cyclops
 
@@ -50,7 +50,7 @@
 
 ### Dark Minitaur
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15) (1).png>)
 
 ### Glom
 
@@ -58,7 +58,7 @@
 
 ### Bubble Glom
 
-![](<../../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 ### Golden Glom
 

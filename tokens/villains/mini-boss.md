@@ -18,9 +18,8 @@ To fight a Mini-Boss, issue the following command in discord once you have at le
 /fight
 ```
 
-|                                                                                   |          |
-| --------------------------------------------------------------------------------- | -------- |
 | Mini-Boss Levels                                                                  | 4-6      |
+| --------------------------------------------------------------------------------- | -------- |
 | Role Needed to Fight                                                              | n00b     |
 | Role Acquired When You Win                                                        | Hardcore |
 | Token Minting Cap                                                                 | 2,500    |

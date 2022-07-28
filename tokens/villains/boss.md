@@ -18,9 +18,8 @@ To fight a Boss, issue the following command in discord once you have at least 1
 /fight
 ```
 
-|                                                                                   |           |
-| --------------------------------------------------------------------------------- | --------- |
 | Boss Levels                                                                       | 7-8       |
+| --------------------------------------------------------------------------------- | --------- |
 | Role Needed to Fight                                                              | Hardcore  |
 | Role Acquired When You Win                                                        | Legendary |
 | Token Minting Cap                                                                 | 1,000     |

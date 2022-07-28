@@ -36,6 +36,8 @@
     * [Mini-Boss Types](tokens/villains/mini-boss/mini-boss-types.md)
   * [Boss](tokens/villains/boss.md)
     * [Boss Types](tokens/villains/boss/boss-types.md)
+  * [Warlocks](tokens/villains/warlocks/README.md)
+    * [Warlock Types](tokens/villains/warlocks/warlock-types.md)
 * [🤑 Hero Skins](tokens/skins/README.md)
   * [Gamer Chick](tokens/hero-skins/gamer-chick.md)
   * [MMA Fighter](tokens/skins/mma-fighter.md)
