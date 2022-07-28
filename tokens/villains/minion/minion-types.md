@@ -2,7 +2,7 @@
 
 ### Cyclops
 
-![](<../../../.gitbook/assets/image (3) (2).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 ### Ice Cyclops
 
@@ -38,11 +38,11 @@
 
 ### Purple Goblin
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 ### Minitaur
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)
 
 ### Forest Minitaur
 
@@ -58,11 +58,11 @@
 
 ### Bubble Glom
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (7).png>)
 
 ### Golden Glom
 
-![](<../../../.gitbook/assets/image (45).png>)
+![](<../../../.gitbook/assets/image (45) (1).png>)
 
 ### Wolfman
 
@@ -74,4 +74,4 @@
 
 ### Hellian Wolfman
 
-![](<../../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)

@@ -30,4 +30,4 @@ You'll now see that your name is green and if you click on it to see your roles,
 
 Once you have joined, you can run the <mark style="color:purple;">**/stats**</mark> command to see your stats as a player. When you first start out, it'll look something like this:
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27) (2).png>)
