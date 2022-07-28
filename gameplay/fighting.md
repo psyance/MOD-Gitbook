@@ -6,6 +6,15 @@ description: We encourage violence... against Villains. Because they're bad.
 
 The only way to level up your Hero in the game is to Challenge the Villains to a fight! There are three types of [Villains](../tokens/villains/) that all have various difficulty levels assigned to them. Each [Villain](../tokens/villains/) is uniquely generated and has varying degrees of uniqueness based on the traits associate with it. You will need the minimum necessary Rupeez and roles to be able to fight the Villain.
 
+### Rupeez Needed To Fight a Villain
+
+| Villain Type                                 | Rupeez Needed |
+| -------------------------------------------- | ------------- |
+| [Minion](../tokens/villains/minion.md)       | 100           |
+| [Mini Boss](../tokens/villains/mini-boss.md) | 500           |
+| [Boss](../tokens/villains/boss.md)           | 1,500         |
+| [Kill Screen](../tokens/kill-screens.md)     | 4,200         |
+
 ### How to fight
 
 All fights take place within Discord. You will need to issue the following command:
@@ -43,11 +52,13 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 If you defeat a Villain from challenging them to a fight, you will be awarded the NFT of the Villain you defeated, the corresponding Hero NFT, and the Discord Role that is assigned from the Hero NFT.
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ### <img src="https://mintofdestiny.xyz/assets/img/others/lost.png" alt="" data-size="line"> Shameful Loss
 
 Should you be defeated by the Villain that you challenged, Rupeez will be stripped from your Hero and you will be publicly called out for failing miserably in shame. The amount of Rupeez lost are determined by the Villain type that you are fighting.
+
+![](../.gitbook/assets/image.png)
 
 ### Fight History
 

@@ -42,7 +42,7 @@
 
 ### Minitaur
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)
 
 ### Forest Minitaur
 
