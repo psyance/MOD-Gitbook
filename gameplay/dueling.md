@@ -28,7 +28,7 @@ All duels take place within Discord. You will need to issue the following comman
 
 If nobody is waiting for a duel, then you will be set as the next player in line to duel and will automatically battle the next user who uses the `/duel` command.
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (2).png>)
 
 If you run the `/duel` command and another player is waiting in the queue, you will automatically duel them.
 

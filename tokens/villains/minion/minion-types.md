@@ -62,7 +62,7 @@
 
 ### Golden Glom
 
-![](<../../../.gitbook/assets/image (45) (1).png>)
+![](<../../../.gitbook/assets/image (45).png>)
 
 ### Wolfman
 
