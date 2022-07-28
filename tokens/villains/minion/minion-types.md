@@ -2,7 +2,7 @@
 
 ### Cyclops
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (2).png>)
 
 ### Ice Cyclops
 
@@ -38,7 +38,7 @@
 
 ### Purple Goblin
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 ### Minitaur
 
@@ -58,7 +58,7 @@
 
 ### Bubble Glom
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 ### Golden Glom
 
@@ -74,4 +74,4 @@
 
 ### Hellian Wolfman
 
-![](<../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1).png>)
