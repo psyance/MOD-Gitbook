@@ -10,7 +10,7 @@
 
 ### Hallow
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (11) (1).png>)
 
 ### Bat-a-Cat
 
@@ -26,7 +26,7 @@
 
 ### SeaFrost
 
-![](<../../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ### Frosty
 
