@@ -27,4 +27,4 @@ During the burning process, you will see this message:
 
 Once it has been burned, you'll be notified with the amount of Rupeez and XP you have gained:
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
