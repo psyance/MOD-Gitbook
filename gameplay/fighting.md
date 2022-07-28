@@ -52,13 +52,13 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 If you defeat a Villain from challenging them to a fight, you will be awarded the NFT of the Villain you defeated, the corresponding Hero NFT, and the Discord Role that is assigned from the Hero NFT.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 ### <img src="https://mintofdestiny.xyz/assets/img/others/lost.png" alt="" data-size="line"> Shameful Loss
 
 Should you be defeated by the Villain that you challenged, Rupeez will be stripped from your Hero and you will be publicly called out for failing miserably in shame. The amount of Rupeez lost are determined by the Villain type that you are fighting.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (8).png>)
 
 ### Fight History
 

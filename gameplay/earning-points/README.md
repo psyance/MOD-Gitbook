@@ -11,7 +11,7 @@ The following is a table that outlines all the _Methods_ that you can earn Rupee
 | Method                                                | Amount                                                                                         | Cool-down Period |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------- |
 | [Discord Post](discord-post.md)                       | <img src="../../.gitbook/assets/Rupeez-small (7).png" alt="" data-size="line"> 1 Rupee         | 1 Minute         |
-| [Gifting Rupeez](../earning-rupeez/gifting-rupeez.md) | <img src="../../.gitbook/assets/Rupeez-small (7).png" alt="" data-size="line"> 5 Rupeez        | None             |
+| [Gifting Rupeez](../earning-rupeez/gifting-rupeez.md) | <img src="../../.gitbook/assets/Rupeez-small (7).png" alt="" data-size="line"> 5 Rupeez        | 2 Minutes        |
 | [Exploring](exploring.md)                             | <mark style="color:purple;">Various</mark>                                                     | 15 Minutes       |
 | [Fighting](../fighting.md)                            | <mark style="color:purple;">Various</mark>                                                     | 1 Hour           |
 | Dueling                                               | <img src="../../.gitbook/assets/Rupeez-small (7).png" alt="" data-size="line"> 25 / -15 Rupeez | 30 Minutes       |

@@ -16,7 +16,7 @@ The loser will forfeit 15 Rupeez and gain 50XP!
 
 If you are the winner, you can continue to duel others immediately, but if you lose, there is a 30 minute cool down window
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ### How to Duel
 
