@@ -78,7 +78,7 @@
 
 ### Zuluster
 
-![](<../../../.gitbook/assets/Zathor#8 (1).png>)
+![](../../../.gitbook/assets/Zuluster#20.png)
 
 
 

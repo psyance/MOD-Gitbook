@@ -52,7 +52,7 @@ The rank of a Villain is directly tied to the chance of winning the fight when y
 
 If you defeat a Villain from challenging them to a fight, you will be awarded the NFT of the Villain you defeated, the corresponding Hero NFT, and the Discord Role that is assigned from the Hero NFT.
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 ### <img src="https://mintofdestiny.xyz/assets/img/others/lost.png" alt="" data-size="line"> Shameful Loss
 
