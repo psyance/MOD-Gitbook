@@ -24,7 +24,7 @@ To fight a Boss, issue the following command in discord once you have at least 1
 | Role Acquired When You Win                                                        | Legendary |
 | Token Minting Cap                                                                 | 1,000     |
 | Rupeez Needed to Fight                                                            | 1,500     |
-| Rupeez Deducted if You Lose                                                       | 750       |
-| Rupeez Deducted if You Run                                                        | 375       |
+| Rupeez Deducted if You Lose                                                       | 200       |
+| Rupeez Deducted if You Run                                                        | 50        |
 | [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md) When Fought | 150       |
 

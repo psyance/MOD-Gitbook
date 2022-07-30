@@ -23,8 +23,8 @@ To fight a minion, issue the following command in discord once you have at least
 | Role Needed to Fight                                                              | Player |
 | Role Acquired When You Win                                                        | n00b   |
 | Token Minting Cap                                                                 | 5,000  |
-| Rupeez Needed to Fight                                                            | 100    |
-| Rupeez Deducted if You Lose                                                       | 50     |
-| Rupeez Deducted if You Run                                                        | 25     |
+| Rupeez Needed to Fight                                                            | 0      |
+| Rupeez Deducted if You Lose                                                       | 10     |
+| Rupeez Deducted if You Run                                                        | 5      |
 | [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md) When Fought | 10     |
 
