@@ -26,5 +26,5 @@ To fight a minion, issue the following command in discord once you have at least
 | Rupeez Needed to Fight                                                            | 0      |
 | Rupeez Deducted if You Lose                                                       | 10     |
 | Rupeez Deducted if You Run                                                        | 5      |
-| [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md) When Fought | 10     |
+| [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md) When Fought | 20     |
 
