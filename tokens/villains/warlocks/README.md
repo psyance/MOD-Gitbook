@@ -25,3 +25,6 @@ Once your hero has captured enough Villains to gain Legendary status, you can se
 | Rupeez Deducted if You Lose | 100   |
 | Rupeez Deducted if You Run  | 300   |
 
+### Warlock Powers
+
+Warlocks have the ability to open mystical artifacts that have been locked with dark magic.

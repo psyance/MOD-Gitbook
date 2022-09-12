@@ -24,8 +24,8 @@ To fight a Mini-Boss, issue the following command in discord once you have at le
 | Role Acquired When You Win                                                        | Hardcore |
 | Token Minting Cap                                                                 | 2,500    |
 | Rupeez Needed to Fight                                                            | 500      |
-| Rupeez Deducted if You Lose                                                       | 250      |
-| Rupeez Deducted if You Run                                                        | 125      |
+| Rupeez Deducted if You Lose                                                       | 100      |
+| Rupeez Deducted if You Run                                                        | 25       |
 | [Ownership Rupeez](../../gameplay/earning-points/ownership-points.md) When Fought | 50       |
 
 ###
