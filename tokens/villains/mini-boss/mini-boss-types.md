@@ -26,7 +26,7 @@
 
 ### SeaFrost
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### Frosty
 
@@ -42,7 +42,7 @@
 
 ### Dr Noodles
 
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### Dr Noodles III
 
