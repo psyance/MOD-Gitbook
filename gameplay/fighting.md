@@ -58,7 +58,7 @@ If you defeat a Villain from challenging them to a fight, you will be awarded th
 
 Should you be defeated by the Villain that you challenged, Rupeez will be stripped from your Hero and you will be publicly called out for failing miserably in shame. The amount of Rupeez lost are determined by the Villain type that you are fighting.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### Fight History
 

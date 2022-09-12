@@ -10,6 +10,6 @@ Our bots will automatically verify the tweet, then credit your account with the 
 
 To prevent spamming, we are limiting the amount of tweets you can post to 1 tweet every 24 hours. You can post as many as you like on Twitter obviously, but you can only run the "/tweet \[link]" command 24 hours after your last registered tweet for Rupeez. The timer is tracking tweets based on ID and Twitter name.
 
-![Sample Tweet](<../../.gitbook/assets/image (4) (1) (1).png>)
+![Sample Tweet](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ##

@@ -2,7 +2,7 @@
 
 ### Cyclops
 
-![](<../../../.gitbook/assets/image (3) (2).png>)
+![](<../../../.gitbook/assets/image (3) (2) (1).png>)
 
 ### Ice Cyclops
 
@@ -26,7 +26,7 @@
 
 ### Erik
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16) (1).png>)
 
 ### Goblin
 
@@ -42,7 +42,7 @@
 
 ### Minitaur
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)
 
 ### Forest Minitaur
 
