@@ -2,7 +2,7 @@
 description: See what the Minting Godz are working on and the status
 ---
 
-# 👨💻 Current Development
+# 💻 Current Development
 
 | Development Item                                                                 | Status                                                                           |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |

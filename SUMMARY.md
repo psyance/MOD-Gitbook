@@ -89,4 +89,4 @@
 
 ## Behind the Scenes
 
-* [👨💻 Current Development](behind-the-scenes/current-development.md)
+* [💻 Current Development](behind-the-scenes/current-development.md)
