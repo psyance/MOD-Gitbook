@@ -22,8 +22,8 @@ Once your hero has captured enough Villains to gain Legendary status, you can se
 | Role Acquired When You Win  | None  |
 | Token Minting Cap           | 100   |
 | Rupeez Needed to Fight      | 3,000 |
-| Rupeez Deducted if You Lose | 100   |
-| Rupeez Deducted if You Run  | 300   |
+| Rupeez Deducted if You Lose | 300   |
+| Rupeez Deducted if You Run  | 100   |
 
 ### Warlock Powers
 
