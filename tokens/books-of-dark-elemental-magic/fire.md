@@ -33,7 +33,7 @@ As you are just starting to learn this Dark Elemental Magic, you can only cast r
 | Attribute                                                                   | Value on Success | Value on Fail |
 | --------------------------------------------------------------------------- | ---------------- | ------------- |
 | <img src="../../.gitbook/assets/XP-Discord.png" alt="" data-size="line"> XP | 20               | 10            |
-| <img src="../../.gitbook/assets/MP-Discord.png" alt="" data-size="line"> MP | 1                | 1             |
+| <img src="../../.gitbook/assets/MP-Discord.png" alt="" data-size="line"> MP | 1                | 0             |
 | <img src="../../.gitbook/assets/HP-discord.png" alt="" data-size="line"> HP | 2-4              | -1            |
 | ![](../../.gitbook/assets/Rupeez-micro.png)Rupeez                           | 0                | 0             |
 
