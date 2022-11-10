@@ -67,6 +67,8 @@
 * [🤖 /help](discord-bot/help.md)
 * [🤖 /nft](discord-bot/nft.md)
 * [🤖 /profile](discord-bot/profile.md)
+* [🤖 /cast](discord-bot/cast.md)
+* [🤖 /unlock](discord-bot/unlock.md)
 
 ## Techy Stuff
 
