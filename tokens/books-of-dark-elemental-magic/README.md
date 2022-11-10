@@ -12,7 +12,7 @@ Throughout the Etherverse, there are books containing Dark Magic that can be use
 
 ### Health Points (HP)
 
-Health Points (HP <img src="../../.gitbook/assets/HP-discord.png" alt="" data-size="line">) are needed by Players to be able to cast spells. Every player has a maximum HP of 10. They can earn and lose them in various ways. Especially when trying to cast a spell and it backfires! If a player ever reaches 0 HP, they will not be able to cast spells until they recover and regain some HP. They can recover HP from exploring the Etherverse or by other Warlocks casting healing spells on them.
+Health Points (HP <img src="../../.gitbook/assets/HP-discord.png" alt="" data-size="line">) are needed by Players to be able to cast spells. Every player has a maximum HP of 10. They can earn and lose them in various ways. Especially when trying to cast a spell and it backfires! If a player ever reaches 0 HP, they will not be able to cast spells until they recover and regain some HP. They can recover HP from [exploring](../../gameplay/earning-points/exploring.md) the Etherverse or by other Warlocks casting healing spells on them.
 
 ### Magic Points (MP)
 
