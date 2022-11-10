@@ -10,6 +10,14 @@ description: Books of Elemental Magic scattered around the Etherverse
 
 Throughout the Etherverse, there are books containing Dark Magic that can be used by [Warlocks](../villains/warlocks/) to summon creatures from other dimensions and open portals to other worlds and time. While any hero can acquire one of these books while [Exploring](../../gameplay/earning-points/exploring.md), only Warlock have the power to unlock them and user their powers.
 
+### Health Points (HP)
+
+Health Points (HP <img src="../../.gitbook/assets/HP-discord.png" alt="" data-size="line">) are needed by Players to be able to cast spells. Every player has a maximum HP of 10. They can earn and lose them in various ways. Especially when trying to cast a spell and it backfires! If a player ever reaches 0 HP, they will not be able to cast spells until they recover and regain some HP. They can recover HP from exploring the Etherverse or by other Warlocks casting healing spells on them.
+
+### Magic Points (MP)
+
+Magic Points (MP <img src="../../.gitbook/assets/MP-Discord.png" alt="" data-size="line">) are earned by casting spells. They can be used to target your spells to specific players in the game.
+
 ### How Do We Find the Books?
 
 Any Hero can discover the books while [Exploring](../../gameplay/earning-points/exploring.md) the Etherverse. It will be important for them to have enough Rupeez to trade with to be able to acquire them though.
