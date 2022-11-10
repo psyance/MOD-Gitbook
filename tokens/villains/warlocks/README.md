@@ -21,7 +21,7 @@ Once your hero has captured enough Villains to gain Legendary status, you can se
 | Villain Needed to Fight     | Boss  |
 | Role Acquired When You Win  | None  |
 | Token Minting Cap           | 100   |
-| Rupeez Needed to Fight      | 3,000 |
+| Rupeez Needed to Fight      | 1,000 |
 | Rupeez Deducted if You Lose | 300   |
 | Rupeez Deducted if You Run  | 100   |
 
