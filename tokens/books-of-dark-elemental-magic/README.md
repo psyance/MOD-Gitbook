@@ -16,12 +16,12 @@ Any Hero can discover the books while [Exploring](../../gameplay/earning-points/
 
 There are four types of Dark Elemental Magic:
 
-| Type                                                                                                                                        | Quantity Available | Cost to Trade |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- |
-| <mark style="color:green;">****</mark>[<mark style="color:green;">**⛰️ Earth**</mark>](earth.md)<mark style="color:green;">****</mark>      | 80                 | 500 Rupeez    |
-| ****[**💨 Air**](broken-reference)****                                                                                                      | 60                 | 650 Rupeez    |
-| <mark style="color:blue;">****</mark>[<mark style="color:blue;">**🌊 Water**</mark>](broken-reference)<mark style="color:blue;">****</mark> | 40                 | 800 Rupeez    |
-| <mark style="color:red;">****</mark>[<mark style="color:red;">**🔥 Fire**</mark>](broken-reference)<mark style="color:red;">****</mark>     | 20                 | 1,000 Rupeez  |
+| Type                                                                                                                                        | Quantity Available                                  | Cost to Trade |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------- |
+| <mark style="color:green;">****</mark>[<mark style="color:green;">**⛰️ Earth**</mark>](earth.md)<mark style="color:green;">****</mark>      | 80                                                  | 500 Rupeez    |
+| ****[**💨 Air**](broken-reference)****                                                                                                      | 60 <mark style="color:red;">**(ALL MINTED)**</mark> | 650 Rupeez    |
+| <mark style="color:blue;">****</mark>[<mark style="color:blue;">**🌊 Water**</mark>](broken-reference)<mark style="color:blue;">****</mark> | 40 <mark style="color:red;">**(ALL MINTED)**</mark> | 800 Rupeez    |
+| <mark style="color:red;">****</mark>[<mark style="color:red;">**🔥 Fire**</mark>](broken-reference)<mark style="color:red;">****</mark>     | 20 <mark style="color:red;">**(ALL MINTED)**</mark> | 1,000 Rupeez  |
 
 {% hint style="info" %}
 <mark style="color:red;">**IMPORTANT**</mark>: Each hero can only earn 1 book of each type of Dark Elemental Magic.
