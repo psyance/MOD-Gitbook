@@ -42,3 +42,7 @@ Every book has been uniquely bound and locked with a key by the Minting Gods. Th
 ### How To Unlock Chapter 2
 
 If you have unlocked your books with the key, you're well on your way to mastering the Dark Arts of Elemental Magic! Chapter 1 allows players to cast random spells, but not very effectively. Players will have to practice casting spells to really get the hang of it. Once they have successfully proven they can control their magic, the books will whisper to them the first clue in how to unlock Chapter 2.
+
+How to Unlock Chapter 3
+
+This one is going to be just a bit different. The [Minting Godz](../../gameplay/hunting.md) have provided a 1ETH bounty for the chosen one that solves the final challenge on retrieving the key. More info on what went into creating this one-of-a-kinda sleuthing challenge can be found in the Krypto Sucks podcast.
