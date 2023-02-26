@@ -38,6 +38,8 @@
     * [Boss Types](tokens/villains/boss/boss-types.md)
   * [Warlocks](tokens/villains/warlocks/README.md)
     * [Warlock Types](tokens/villains/warlocks/warlock-types.md)
+  * [Witches](tokens/villains/witches/README.md)
+    * [Warlock Types](tokens/villains/witches/warlock-types.md)
 * [📚 Books of Dark Elemental Magic](tokens/books-of-dark-elemental-magic/README.md)
   * [⛰ Earth](tokens/books-of-dark-elemental-magic/earth.md)
   * [🌪 Air](tokens/books-of-dark-elemental-magic/air.md)
