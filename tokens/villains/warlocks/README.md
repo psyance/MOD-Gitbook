@@ -6,7 +6,7 @@ description: Mystical beings that move between dimensions in the Etherverse
 
 ![Warlock #17041](../../../.gitbook/assets/17041.png)
 
-Warlocks are interdimensional beings that roam the Etherverse. They were given special powers by the Minting Godz that no other Villain possesses, the ability to summon other beings and to create portals between worlds. Warlocks are ranked from Level 9 to Level 11. Due to their overwhelmingly strong nature, our Heroes will need to attack them using multiple captured Villains that have been trained to hunt down Warlocks.
+Warlocks are interdimensional beings that roam the Etherverse. They were given special powers by the Minting Godz that only Witches possesses, the ability to summon other beings and to create portals between worlds. Warlocks are ranked from Level 9 to Level 11. Due to their overwhelmingly strong nature, our Heroes will need to attack them using multiple captured Villains that have been trained to hunt down Warlocks.
 
 ### How to Defeat a Warlock
 
