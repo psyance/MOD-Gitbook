@@ -13,3 +13,5 @@ description: Raw Data of all attributes for rarity levels
   * [Minions](villains/minions.md)
   * [Mini-Bosses](villains/mini-bosses.md)
   * [Bosses](villains/bosses.md)
+  * [Warlocks](villains/warlocks.md)
+  * [Witches](villains/witches.md)

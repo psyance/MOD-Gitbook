@@ -90,6 +90,7 @@
     * [Mini-Bosses](techy-stuff/rarity-levels-by-attribute/villains/mini-bosses.md)
     * [Bosses](techy-stuff/rarity-levels-by-attribute/villains/bosses.md)
     * [Warlocks](techy-stuff/rarity-levels-by-attribute/villains/warlocks.md)
+    * [Witches](techy-stuff/rarity-levels-by-attribute/villains/witches.md)
 
 ## Behind the Scenes
 
