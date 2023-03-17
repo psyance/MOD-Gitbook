@@ -45,6 +45,7 @@
   * [🌪 Air](tokens/books-of-dark-elemental-magic/air.md)
   * [🌊 Water](tokens/books-of-dark-elemental-magic/water.md)
   * [🔥 Fire](tokens/books-of-dark-elemental-magic/fire.md)
+* [📜 Ancient Scrolls](tokens/ancient-scrolls.md)
 * [🤑 Hero Skins](tokens/skins/README.md)
   * [Gamer Chick](tokens/hero-skins/gamer-chick.md)
   * [MMA Fighter](tokens/skins/mma-fighter.md)
